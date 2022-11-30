@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Choicelab</title>
+    <link rel="stylesheet" type="text/css" href="./styles/starter.css" />
+    <link rel="stylesheet" type="text/css" href="./styles/theme-ashland.css" />
+  </head>
+  <body>
+    <div id="start-overlay" class="overlay">
+      <div>
+        <button data-play-button>Start</button>
+      </div>
+    </div>
+    <button id="pause-overlay" class="overlay" data-play-button></button>
+    <div id="stage" data-stage>
+      <div data-default-template></div>
+    </div>
+    <div id="captions">
+      <p data-cc-box></p>
+    </div>
+    <div id="controls">
+      <button id="play" class="controls" data-play-button></button>
+      <button id="captions" class="controls" data-cc-button></button>
+      <button id="reset" class="controls" data-reset-button></button>
+    </div>
+    <script src="https://unpkg.com/@austinheller/choicelab@3.3.0/dist/choicelab.js"></script>
+  </body>
+</html>

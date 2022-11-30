@@ -1,0 +1,18 @@
+~~
+
+[audio src="media/a-owl.wav"]
+
+~~
+
+*Follow the radio static, to Margaret? Or follow the voices, into the cave?*
+
+[margaretOrCave?]
+  > Follow the radio signal. [margaret]
+  > Follow the glow. [cave]
+
+~~ margaretOrCave = margaret?
+~~> emma/a-margaret
+
+~~ margaretOrCave = cave?
+~~> emma/a-cave
+

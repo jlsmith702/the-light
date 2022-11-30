@@ -1,0 +1,17 @@
+~~
+
+[audio src="media/a-lake.wav"]
+
+~~
+
+*Go towards the fire? Or the music?*
+
+  [fireOrSong?]
+  > Follow the fire. [fire]
+  > Follow the music. [song]
+
+~~ fireOrSong = fire?
+~~> emma/a-wolf
+
+~~ fireOrSong = song?
+~~> emma/a-owl

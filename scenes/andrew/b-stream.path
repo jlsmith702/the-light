@@ -1,0 +1,15 @@
+~~
+
+[audio src="media/b-stream.wav"]
+
+~~
+
+  [fireOrSong?]
+  > Follow the sound of the fire. [fire]
+  > Follow the mysterious song. [song]
+
+~~ fireOrSong = fire?
+~~> andrew/b-wolf
+
+~~ fireOrSong = song?
+~~> andrew/b-owl

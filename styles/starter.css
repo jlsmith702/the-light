@@ -1,0 +1,297 @@
+/***************
+
+IMPORTANT: You probably don't want to edit this file. To change the way Choicelab looks, consider editing the accompanying CSS file in this folder.
+
+***************
+
+ * Choicelab Starter
+ * v1.0.0
+ * choicelab.xyz
+
+***************/
+
+/* Meyerweb Reset
+ * http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/*
+ * Choicelab styling
+*/
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  background: white;
+  font-size: 1rem;
+  position: relative;
+}
+
+button {
+  appearance: none;
+  background-color: transparent;
+  border: none;
+  font-size: 1rem;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.3;
+  margin-bottom: 1rem;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: 700;
+}
+
+/* Playback classes */
+
+body[data-choicelab-state="playing"] .overlay {
+  display: none !important;
+}
+
+body[data-choicelab-state="idle"] #pause-overlay,
+body[data-choicelab-state="ready"] #pause-overlay {
+  display: none;
+}
+
+body[data-choicelab-state="paused"] #start-overlay {
+  display: none;
+}
+
+/* Actions */
+
+[data-action="text"] {
+  margin-bottom: 1rem;
+}
+
+[data-action="input"] button {
+  margin-bottom: 1rem;
+}
+
+/* Closed captions */
+
+[data-cc-box] {
+  display: none;
+}
+
+[data-cc-box]:empty {
+  display: none !important;
+}
+
+[data-cc-box].visible {
+  display: block;
+}
+
+/* Logging */
+
+#choicelab-log {
+  position: absolute;
+  width: 0;
+  height: 0;
+  top: 30px;
+  right: 350px;
+  z-index: 999;
+  margin: 0;
+  font-size: 15px;
+  overflow: visible;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+#choicelab-log .choicelab-alert {
+  position: relative;
+  width: 300px;
+  list-style: none;
+  background: rgba(19, 19, 19, 0.94);
+  color: white;
+  font-size: 13px;
+  line-height: 18.5px;
+  padding: 12px 8px;
+  padding-right: 36px;
+  margin-bottom: 16px;
+  border-radius: 7px;
+  display: flex;
+  flex-wrap: nowrap;
+}
+#choicelab-log .choicelab-alert-icon {
+  display: inline-block;
+  margin-right: 5px;
+}
+#choicelab-log .choicelab-alert button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background: none;
+  width: 24px;
+  height: 24px;
+  min-width: 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+  border-radius: 100px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  transform: none;
+  opacity: 1;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 0px;
+}
+#choicelab-log .choicelab-alert button span {
+  position: relative;
+  top: 0px;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  line-height: 0px;
+  vertical-align: baseline;
+}
+#choicelab-log .choicelab-alert button:active {
+  background: rgba(0, 0, 0, 0.5);
+}

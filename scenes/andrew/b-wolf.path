@@ -1,0 +1,17 @@
+~~
+
+[audio src="media/b-wolf.wav"]
+
+~~
+
+*Go up towards Marget and the radio sounds? Or into the strange glowing cave?*
+
+[margaretOrCave?]
+  > Follow the radio signal. [margaret]
+  > Follow the glow. [cave]
+
+~~ margaretOrCave = margaret?
+~~> andrew/b-margaret
+
+~~ margaretOrCave = cave?
+~~> andrew/b-cave

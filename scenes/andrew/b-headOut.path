@@ -1,0 +1,17 @@
+~~
+
+[audio src="media/b-headOut.wav"]
+
+~~
+
+*Take the shortcut across the frozen lake? Or take the long way around?*
+
+  [safeOrShort?]
+  > Take the shortcut. [safe]
+  > Take the safer path. [short]
+
+~~ safeOrShort = short?
+~~> andrew/b-lake
+
+~~ safeOrShort = safe?
+~~> andrew/b-stream

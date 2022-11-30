@@ -1,0 +1,187 @@
+:root {
+  --padding: 2rem;
+  --max-width: 1200px;
+  --button-color: #34A245;
+  --button-color-active: #2C8739;
+  --background-color: #1f1f2e;
+  --text-color: white;
+}
+
+html {
+  font-size: 19px;
+}
+body {
+  background-color: var(--background-color);
+}
+
+@media (min-width: 801px) {
+  html {
+    font-size: 24px;
+  }
+}
+
+#stage {
+	position: relative;
+	width: 100%;
+	height: calc(100% - 44px);
+	left: 0;
+	top: 0;
+	z-index: 5;
+  max-width: var(--max-width);
+  padding: var(--padding);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#controls {
+	position: absolute;
+	width: 100%;
+	height: 44px;
+	left: 50%;
+	bottom: 0;
+	z-index: 10;
+  display: flex;
+  max-width: var(--max-width);
+  transform: translateX(-50%);
+}
+
+.overlay {
+	position: absolute;
+	width: 100%;
+	height: calc(100% - 44px);
+	left: 0;
+	bottom: 44px;
+	z-index: 15;
+}
+
+p[data-action="text"] {
+  color: white;
+  font-weight: 300;
+}
+
+p[data-action="text"] strong {
+  font-weight: 700;
+}
+
+/* Buttons */
+
+button:not(.controls):not(.overlay) {
+  background-color: var(--button-color);
+  color: var(--text-color);
+  font-weight: 700;
+  border-radius: 0.3rem;
+  padding: 0.4rem 0.7rem;
+  min-width: 5rem;
+  transform: scale(1.00);
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+button:not(.controls):not(.overlay):hover {
+  transform: scale(1.05);
+}
+
+button:not(.controls):not(.overlay):active {
+  background-color: var(--button-color-active);
+}
+
+
+/* Overlays */
+
+#start-overlay div {
+  max-width: var(--max-width);
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#pause-overlay {
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+}
+
+#pause-overlay svg {
+  width: 5vw;
+  height: auto;
+}
+
+#pause-overlay svg g path {
+  fill: white;
+}
+
+.overlay button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Control bar */
+
+#controls {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+#controls button {
+  margin-right: 0.75rem;
+  opacity: 0.75;
+}
+
+#controls button:hover {
+  opacity: 1;
+}
+
+#controls button svg g path {
+  fill: var(--text-color);
+}
+
+#controls button.captions-visible {
+  opacity: 1;
+}
+
+#controls button.captions-visible svg g path {
+  fill: var(--button-color);
+}
+
+
+/* Stage templates */
+
+[data-default-template] {
+  margin-top: 1rem;
+}
+
+
+/* Action transitions */
+
+[data-action]:not([data-action="input"]) {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+[data-action].appear {
+  opacity: 1;
+}
+
+[data-action="input"] button {
+  display: block;
+}
+
+[data-action="input"] > * {
+  opacity: 0;
+}
+
+[data-action="input"].appear > * {
+  opacity: 1;
+}
+
+[data-action="input"].appear > *:nth-child(2) { transition-delay: 100ms; }
+[data-action="input"].appear > *:nth-child(3) { transition-delay: 200ms; }
+[data-action="input"].appear > *:nth-child(4) { transition-delay: 300ms; }
+[data-action="input"].appear > *:nth-child(5) { transition-delay: 400ms; }
+[data-action="input"].appear > *:nth-child(6) { transition-delay: 500ms; }
+[data-action="input"].appear > *:nth-child(7) { transition-delay: 600ms; }
+[data-action="input"].appear > *:nth-child(8) { transition-delay: 700ms; }
+[data-action="input"].appear > *:nth-child(9) { transition-delay: 800ms; }

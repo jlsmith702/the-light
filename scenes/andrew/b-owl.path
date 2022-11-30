@@ -1,0 +1,17 @@
+~~
+
+[audio src="media/b-owl.wav"]
+
+~~
+
+*Go up towards the signal? Or towards the glow?*
+
+[margaretOrCave?]
+  > Follow the radio signal. [margaret]
+  > Follow the glow. [cave]
+
+~~ margaretOrCave = margaret?
+~~> andrew/b-margaret
+
+~~ margaretOrCave = cave?
+~~> andrew/b-cave

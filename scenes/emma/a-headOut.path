@@ -1,0 +1,17 @@
+~~
+
+[audio src="media/a-headOut.wav"]
+
+~~
+
+*Take the shortcut across the frozen lake? Or the way around it?* 
+
+  [safeOrShort?]
+  > Take the shortcut. [safe]
+  > Take the long way around. [short]
+
+~~ safeOrShort = short?
+~~> emma/a-lake
+
+~~ safeOrShort = safe?
+~~> emma/a-stream

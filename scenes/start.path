@@ -1,0 +1,17 @@
+~~
+
+  [audio src="media/start.wav"]
+
+~~
+
+*Who should go out to fix Margaret?*
+
+  [emmaOrAndrew?]
+  > Emma [emma]
+  > Andrew [andrew]
+
+~~ emmaOrAndrew = emma?
+~~> emma/a-headOut
+
+~~ emmaOrAndrew = andrew?
+~~> andrew/b-headOut
