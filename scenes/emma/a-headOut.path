@@ -7,8 +7,8 @@
 *Take the shortcut across the frozen lake? Or the way around it?* 
 
   [safeOrShort?]
-  > Take the shortcut. [safe]
-  > Take the long way around. [short]
+  > Take the shortcut. [short]
+  > Take the long way around. [safe]
 
 ~~ safeOrShort = short?
 ~~> emma/a-lake

@@ -7,8 +7,8 @@
 *Take the shortcut across the frozen lake? Or take the long way around?*
 
   [safeOrShort?]
-  > Take the shortcut. [safe]
-  > Take the safer path. [short]
+  > Take the shortcut. [short]
+  > Take the safer path. [safe]
 
 ~~ safeOrShort = short?
 ~~> andrew/b-lake
