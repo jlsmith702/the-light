@@ -6,6 +6,7 @@
     <title>Choicelab</title>
     <link rel="stylesheet" type="text/css" href="./styles/starter.css" />
     <link rel="stylesheet" type="text/css" href="./styles/theme-ashland.css" />
+    <link rel="stylesheet" type="text/css" href="./styles/light.css" />
   </head>
   <body>
     <div id="start-overlay" class="overlay">
@@ -17,6 +18,7 @@
     <div id="stage" data-stage>
       <div data-default-template></div>
     </div>
+    <div id="lights-container"></div>
     <div id="captions">
       <p data-cc-box></p>
     </div>
@@ -26,5 +28,6 @@
       <button id="reset" class="controls" data-reset-button></button>
     </div>
     <script src="https://unpkg.com/@austinheller/choicelab@3.3.0/dist/choicelab.js"></script>
+    <script src="actions/action.light.js"></script>
   </body>
 </html>

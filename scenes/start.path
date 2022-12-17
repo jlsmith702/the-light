@@ -1,5 +1,16 @@
 ~~
 
+[light color="#4DF765" size="small" speed="slow" x="75" y="-5"]
+
+[2s]
+
+[light color="#DF82F4" size="large" loop="true" speed="slow" x="0" y="25"]
+
+[7s]
+[continue]
+
+~~
+
   [audio src="media/start.wav"]
 
 ~~
