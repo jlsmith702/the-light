@@ -1,6 +1,19 @@
+/*
+ `light` action
+ 
+ EXAMPLE:
+ [light color="#2f2f52" size="small" speed="slow" x="65" y="30"]
+ 
+ PARAMS:
+ * color: A CSS hex (e.g. `#2f2f52`) or name (`blue`)
+ * size: `small`, `medium`, or `large`
+ * speed: `slow` or `fast`
+ * x: How far left the light should be onscreen, any number
+ * y: How far up the light should be onscreen, any number
+ */
+
 Choicelab.Action("light", {
   render: function (action) {
-    console.log(action);
     action.done();
     const container = document.querySelector("#lights-container");
     if (!container) {
