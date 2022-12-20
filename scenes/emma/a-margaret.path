@@ -2,6 +2,62 @@
 
 [audio src="media/a-margaret.wav"]
 
+[1.6s]
+
+[light color="#17255B" size="xsmall" speed="xfast" x="30" y="45"]
+
+[3s]
+
+[light color="#17255B" size="xsmall" speed="xfast" x="70" y="35"]
+
+[6s]
+
+[light color="#17255B" size="xsmall" speed="xfast" x="60" y="60"]
+
+[9s]
+
+[light color="#17255B" size="xsmall" speed="xfast" x="50" y="30"]
+
+[12s]
+
+[light color="#17255B" size="xsmall" speed="xfast" x="45" y="80"]
+
+[15s]
+
+[light color="#17255B" size="xsmall" speed="xfast" x="30" y="30"]
+
+[18s]
+
+[light color="#17255B" size="xsmall" speed="xfast" x="60" y="60"]
+
+[21s]
+
+[light color="#17255B" size="xsmall" speed="xfast" x="25" y="0"]
+
+[24s]
+
+[light color="#17255B" size="xsmall" speed="xfast" x="45" y="20"]
+
+[27s]
+
+[light color="#17255B" size="xsmall" speed="xfast" x="10" y="80"]
+
+[31.72s]
+
+[light color="#17255B" size="xsmall" speed="xfast" x="45" y="45"]
+
+[36s]
+
+[light color="#265E4F" size="large" speed="slow" loop="true" x="45" y="99"]
+
+[38s]
+
+[light color="#06B449" size="small" speed="normal" loop="true" x="25" y="95"]
+[light color="#06B449" size="small" speed="normal" loop="true" x="75" y="100"]
+
+[40s]
+[light color="#793487" size="medium" speed="slow" x="45" y="95"]
+
 ~~
 
 *End.*

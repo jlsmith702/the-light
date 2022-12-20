@@ -1,18 +1,25 @@
 ~~
 
-[light color="#4DF765" size="small" speed="slow" x="75" y="-5"]
-
-[2s]
-
-[light color="#DF82F4" size="large" loop="true" speed="slow" x="0" y="25"]
-
-[7s]
-[continue]
-
-~~
-
   [audio src="media/start.wav"]
+  
+  [light color="#272748" size="large" loop="slow" speed="slow" x="45" y="-5"]
 
+  [20s]
+  
+  [light color="#272748" size="large" speed="slow" x="0" y="-5"]
+
+  [23.6s]
+  
+  [light color="#17255B" size="xsmall" speed="xfast" x="30" y="45"]
+
+  [40s]
+	
+  [light color="#272748" size="large" speed="slow" x="75" y="-5"]
+  
+  [60s]
+	  
+  [light color="#272748" size="large" speed="slow" x="75" y="45"]
+	  
 ~~
 
 *Who should go out to fix Margaret?*

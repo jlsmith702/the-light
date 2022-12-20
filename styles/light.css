@@ -4,6 +4,7 @@
   height: 100%;
   top: 0;
   left: 0;
+  overflow: hidden;
 }
 
 #lights-container .light {
@@ -18,12 +19,30 @@
   filter: blur(30px);
 }
 
+#lights-container .light.xfast {
+  animation-duration: 2s;
+}
+
+#lights-container .light.fast {
+  animation-duration: 7s;
+}
+
 #lights-container .light.slow {
   animation-duration: 20s;
 }
 
+#lights-container .light.xslow {
+  animation-duration: 27s;
+}
+
 #lights-container .light.loop {
   animation-iteration-count: infinite;
+}
+
+#lights-container .light.xsmall {
+  width: 5px;
+  height: 5px;
+  filter: blur(4px);
 }
 
 #lights-container .light.small {
@@ -51,4 +70,13 @@
     transform: scale(4, 3);
     opacity: 0;
   }
+}
+
+#controls {
+  height: 60px;
+}
+
+#controls button svg {
+  height: 25px;
+  width: auto;
 }

@@ -11,7 +11,7 @@
   <body>
     <div id="start-overlay" class="overlay">
       <div>
-        <button data-play-button>Start</button>
+        <button data-play-button>Loading...</button>
       </div>
     </div>
     <button id="pause-overlay" class="overlay" data-play-button></button>
@@ -29,5 +29,19 @@
     </div>
     <script src="https://unpkg.com/@austinheller/choicelab@3.3.0/dist/choicelab.js"></script>
     <script src="actions/action.light.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var startButton = document.querySelector(
+          "#start-overlay [data-play-button]"
+        );
+        Choicelab.on("ready", "setButton", function () {
+          if (document.body.hasAttribute("data-choicelab-resumed")) {
+            startButton.innerText = "Resume";
+          } else {
+            startButton.innerText = "Start";
+          }
+        });
+      });
+    </script>
   </body>
 </html>

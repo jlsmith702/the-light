@@ -29,7 +29,7 @@ Choicelab.Action("light", {
     container.appendChild(lightEl);
     const size = action.size ? action.size : "medium";
     lightEl.classList.add(size);
-    const speed = action.speed ? action.speed : "fast";
+    const speed = action.speed ? action.speed : "normal";
     lightEl.classList.add(speed);
     // Loop
     const loop = action.loop ? action.loop : "false";
