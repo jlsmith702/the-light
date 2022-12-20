@@ -1,6 +1,6 @@
 ~~
 
-  [audio src="media/start.wav"]
+  [audio src="media/start.mp3"]
   
   [light color="#272748" size="large" loop="slow" speed="slow" x="45" y="-5"]
 
