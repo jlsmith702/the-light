@@ -15,13 +15,37 @@
 
 [light color="#4A758D" size="large" speed="slow" loop="true"]
 
+Andrew: Okay, just, don’t do anything dangerous.
+
+Emma: If I die, avenge me.
+
+Andrew: Against the... arctic, in general?
+
+Emma: I don’t know, check my recording and see who did it. Bye!
+
+Andrew: Oh my god.
+
 ~~
 
-*Take the shortcut across the frozen lake? Or the way around it?* 
+_The door opens. The wind kicks up around Emma as she walks out and shuts the door behind her._
+
+_She trudges through the snow._
+
+Emma: So sorry for bringing you to this frickin’ winter wonderland. 
+
+Emma: At least I don’t have to argue about taking the shortcut across the lake for once. “Safety first!” Thanks, Mr. Rogers, or whoever says that and hates adventures and lakes.
+
+_Her footsteps slow to a stop._
+
+~~
+
+Emma: But the long way around does give me more time, out here, alone. So.
+
+*Take the shortcut across the frozen lake? Or the long way around it?*
 
   [safeOrShort?]
-  > Take the shortcut. [short]
-  > Take the long way around. [safe]
+  > The shortcut [short]
+  > The long way [safe]
 
 ~~ safeOrShort = short?
 ~~> emma/a-lake

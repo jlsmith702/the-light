@@ -2,12 +2,60 @@
 
 [audio src="media/b-stream.mp3"]
 
+_Running water, crunching snow, birds calling up above. It sounds pretty freakin’ lush as far as the arctic goes._
+
+Andrew: See, this is why I’m always saying we should take this long route. It’s kind of...peaceful.
+
+_Quiet, gurgling water._
+
+Andrew: Okay, okay, here we go. The hot springs. God, they’re beautiful.
+
+_The water flows more heavily._
+
+Andrew: Hear that? This is the sound of nature’s hot tub.
+
+_A musical sound arises from the water._
+
+Andrew: Uhhhhmmm… what is that?
+
 ~~
 
-  [fireOrSong?]
-  > Follow the sound of the fire. [fire]
-  > Follow the mysterious song. [song]
+Andrew: Is that coming from the water?
 
+_Now it’s more clear, like a choir in the bubbles._
+
+_The music cuts off._
+
+_Ravens fly up into the air, a cloud of screeches and whipping feathers._
+
+Andrew: Ahhh!
+
+~~
+
+Andrew: Alllll right, that was creepy. The peaceful walk is now over, let’s–get–out–of–here. 
+
+_Andrew walks out of the hot spring._
+
+Andrew: Okay, the forest path should be just ahead… 
+
+_The sound of a crackling fire to one side._
+
+Andrew: Is that... a fire? There’s not supposed to be anyone else up here. Right?
+
+_Soft music chords begin to play from the opposite direction._
+
+Andrew: Is that… music?
+
+_Crackling fire on one side, music on the other._
+
+Andrew: Oh, this is officially terrifying. 
+
+*Check out the mysterious fire? Or the strange music?*
+
+[fireOrSong?]
+  > The fire [fire]
+  > The music [song]
+  
 ~~ fireOrSong = fire?
 ~~> andrew/b-wolf
 

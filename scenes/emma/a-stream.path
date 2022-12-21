@@ -2,13 +2,43 @@
 
 [audio src="media/a-stream.mp3"]
 
-~~
+_Running water, crunching snow, birds calling up above. It sounds pretty freakin’ lush as far as the arctic goes._
 
-*Go towards the crackling fire? Or the maybe-music?*
+Emma: Well, this is... lame. I mean, what are you even doing in the arctic, hot springs?
+
+_She walks up to the hot springs. Water gurgles and flows peacefully. She stops. _
+
+Emma: Whoa. That is... that is very pretty.
+
+_For a moment, something shifts in the sound of the water. It’s musical, almost choral._
+
+Emma: Uhhhh. That was… It sounds almost like singing. Let me see if this picks up.
+
+_She gets closer. The music gets louder. _
+
+_Suddenly the music cuts off, and a group of ravens burst out from the forest, cawing and flapping overhead and seeming to bring a wind with them._
+
+Emma: Okay, I do not like this at all, I’m gonna....
+
+_She hurries through the hot springs, to the forest._
+
+Emma: Okay, it’s just an auditory misperception… or maybe I’m developing a really specific kind of tinnitus? 
+
+_As she approaches the forest, she hears the sounds of what might be music…_
+
+Emma: … Musical tinnitus? That can’t be good.
+
+_Then: the sound of a crackling fire emerges from somewhere in the forest._
+
+Emma: Buuut that is definitely a fire. Is someone else out here?!
+
+Emma: …Maybe time to myself was a bad idea.
+
+*Check out the crackling fire? Or the strange music?*
 
   [fireOrSong?]
-  > Follow the fire. [fire]
-  > Follow the music. [song]
+  > The fire [fire]
+  > The music [song]
 
 ~~ fireOrSong = fire?
 ~~> emma/a-wolf

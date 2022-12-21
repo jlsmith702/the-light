@@ -6,11 +6,45 @@
 
 ~~
 
-*Take the shortcut across the frozen lake? Or take the long way around?*
+Emma: Be careful, but… please try to hurry,
+
+Andrew: I know,
+
+Emma: just like, just go straight to Margaret—
+
+Andrew: —who is a microphone, by the way.
+
+Emma: I swear to god,
+
+Andrew: I’ll be back soon.
+
+~~
+
+Emma: Keep the field recorder running!
+
+_The door opens and then shuts. Wind sweeps past._
+
+Andrew: Oh man, that is very cold, okay. Okay. Here we go.
+
+_He starts trudging through the snow._
+
+Andrew: I really miss daytime. Doing stuff in the daytime was pretty cool.
+
+~~
+
+Andrew: Maybe tonight will be the night we finally hear the sounds, though. It just feels like there’s, I don’t know, something in the air.
+
+Andrew: I know, I know, “you can’t feel feelings in the air, that’s not how air works.” 
+
+_Footsteps slow, come to a stop._
+
+Andrew: Okay, The shortcut across the lake is… this way. With my luck, this’ll be the time the ice finally cracks, and I’ll plunge to an icy death. Or I can take the long way around… but that does mean more chances of getting eaten by a bear. This place is great.
+
+*Take the shortcut across the lake? Or the long way around?*
 
   [safeOrShort?]
-  > Take the shortcut. [short]
-  > Take the safer path. [safe]
+  > The shortcut [short]
+  > The long way [safe]
 
 ~~ safeOrShort = short?
 ~~> andrew/b-lake

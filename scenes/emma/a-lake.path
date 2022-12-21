@@ -33,7 +33,53 @@
 [59s]
 
 [light color="#219946" size="medium" speed="slow" loop="true" x="99" y="25"]
+
+
+_Emma walks across the frozen lake. There’s a light wind. And something that sounds almost like lasers firing?_
+
+Emma: God. I love when the lake makes this sound.
+
+_The strange laser-like sounds echo across the lake._
+
+Emma: Of course, a key difference between this and the reported sounds made by the Aurora is that this sound makes scientific sense, because higher frequencies hit your ear first, and... Y’know, Andrew, I wouldn’t have to record this if you listened when I talked.
+
+_CRACK. The surface of the lake cracks and splits!_
+
 ~~
+
+Emma: Oh my god. Oh my gosh.
+
+_Emma runs for it._
+
+Emma: Oh my god!
+
+_Ice cracks behind her as she runs._
+
+_She makes it off the lake._ 
+
+_She takes a moment, breathing hard._
+
+~~
+
+Emma: I’ve never been so happy to see a dark forest.
+
+_She starts walking towards it._
+
+_After a moment, there are two sounds: a crackling fire…._
+
+Emma: What? Is that a fire? No one else should be out here.
+
+_…and soft chords of music._
+
+Emma: And there definitely super should not be anything that sounds like... music?
+
+*Check out the mysterious fire? Or the strange music?*
+
+[fireOrSong?]
+  > The fire [fire]
+  > The music [song]
+
+
 
 *Go towards the fire? Or the music?*
 

@@ -2,13 +2,45 @@
 
 [audio src="media/a-owl.mp3"]
 
-~~
+_The sound of light wind, and mysterious music, and the flapping wings of an owl as it lands nearby. The owl hoots._
 
-*Follow the radio static, to Margaret? Or follow the voices, into the cave?*
+Emma: Oh, it’s you. Hey, owl buddy.
+
+Owl: Hello there!
+
+Emma: Nope. No thank you, no thank you.
+
+Owl _(sing-song)_: Margaret went out for a reason!
+
+Emma: Thank you for calling her by her proper name. Wait, what?
+
+Owl _(sing-song)_: I’ve been waiting to talk to you but you always have that grumpy guy with you...
+
+Emma: Okay, he’s just having a hard time, and then I brought him to a place with no light like that would help, and now... No. I do not accept this talking owl. This is... snow madness.
+
+Owl: Margaret went out for a reason! Say hi to Margaret!
+
+_The owl hoots and flies away. The vague music in the background stays._
+
+Emma: Didn’t even say goodbye. Owls always seemed like they’d have manners, right? ...and glasses.
+
+_She starts walking again._ 
+
+_Radio static kicks up from off to the side. Some kind of signal cuts in and out._
+
+_Emma stops._
+
+Emma: What the hell? That’s Margaret, but... I’ve never heard anything like this, coming from her, have you?
+
+_There’s a glowing sound, off to the other side._
+
+Emma: Wait, is that a cave? Is that cave glowing? That shouldn’t be possible. Should that be possible?
+
+*Follow the strange radio signal, to Margaret? Or follow the glow, into the cave?*
 
 [margaretOrCave?]
-  > Follow the radio signal. [margaret]
-  > Follow the glow. [cave]
+  > To Margaret [margaret]
+  > To the cave [cave]
 
 ~~ margaretOrCave = margaret?
 ~~> emma/a-margaret

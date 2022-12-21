@@ -38,13 +38,47 @@
 
 [light color="#B42D88" class="xsmall" speed="xslow" x="35" y="-5" loop="true"]
 
-~~
+_Emma walks towards the sound of the crackling fire._
 
-*Follow the radio signal, to Margaret? Or follow the glow, into the cave?*
+_She stops suddenly: a wolf emerges from the forest._
+
+Emma: Whoa. An arctic wolf. I’ve never seen one of you up close.
+
+Emma: You're beautiful. ... Did you make this fire?
+
+Emma: No. Wolves don’t make fires, that’s not a. ... Don’t you need thumbs to make a fire?
+
+Emma (whispering): Are you... what do you know?
+
+_The wolf takes off running into the distance._
+
+_The wolf howls._
+
+Emma: Wait! 
+
+_Emma takes off running after the wolf._ 
+
+_But then, the sound of weird radio static from nearby._
+
+Emma: Wait, that’s Margaret, but she’s... where could she be picking up that kind of signal from?
+
+_It sounds like another radio signal is cutting into the static._ 
+
+Emma: The Aurora will be here soon. I gotta get up there. I don’t want to have to start over to be here for another six months, to prove that something doesn’t exist. …I guess it really doesn’t sound great when you say it out loud.
+
+_From the other side, a different sound, musical and glowy._
+
+Emma: But the way the wolf went... Is that a cave... No.
+
+Emma: Is the cave… glowing? What is happening?
+
+Emma: … I wish you were here.
+
+*Go find out what’s happening with Margaret? Or venture into the cave?*
 
 [margaretOrCave?]
-  > Follow the radio signal. [margaret]
-  > Follow the glow. [cave]
+  > To Margaret [margaret]
+  > To the cave [cave]
 
 ~~ margaretOrCave = margaret?
 ~~> emma/a-margaret

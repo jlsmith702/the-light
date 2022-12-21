@@ -3,20 +3,161 @@
 
 ~~
 
-  [audio src="media/start.mp3"]
+[audio src="media/start.mp3"]
   
-  [light color="#4A4A8D" size="large" loop="true" speed="slow"]
+[light color="#4A4A8D" size="large" loop="true" speed="slow"]
+    
+[0.2s]
+
+[cc text="_A small space. In the background, a radio receiver crackles with a low hum of static and a monotonous bloop-bloop sound._"]
+
+[2.0s]
+
+[cc text="Andrew is looking out the window."]
+
+[4.18s]
+ 
+[cc text="Andrew: There it goes."]
+
+[5.63s]
+
+[cc text="Emma: Hmm?"]
+
+[7.1s]
+
+[cc text="Andrew: The last light of the day."]
+
+[8.9s]
+
+[cc text="Emma: You mean sunset?"]
+ 
+ [10.0s]
   
+[cc text="Andrew: It’s the shortest day of the year. And up here, that means...two and a half hours of daylight. Total."]
+
   [12s]
   
   [light color="#4A4A8D" size="large" loop="true" speed="slow"]
 
-  [23.8s]
-  
-  [light color="#F3C541" size="xsmall" speed="xfast" x="50" y="45"]
 
-  [92s]
+[17.0s]
+
+[cc text="Emma: Well."]
+
+[18.32s]
+
+[cc text="Andrew: What."]
+
+[19.16s]
+
+[cc text="Emma: With sunrise and sunset, it’s really more like... five hours."]
+
+[23.8s]
+
+[light color="#F3C541" size="xsmall" speed="xfast" x="50" y="45"]
+
+[cc text="Suddenly, the radio receiver stops blooping."]
+
+[25.16s]
+
+[cc text="Emma: Crap."]
+
+[25.91s]
+
+[cc text="Andrew: What."]
+
+[26.49s]
+ 
+[cc text="Emma: I just lost the signal from Margaret."]
+
+[28.45s]
+ 
+[cc text="Andrew: Margaret the Microphone?"]
+
+[29.9s]
+
+[cc text="Emma: She’s not _just_ a microphone,"]
+
+[31.6s] 
+
+[cc text="Andrew: —yes, I’m sorry, she’s not just a microphone—"]
+
+[33.5s]
+
+[cc text="Emma: —and I think she does a pretty solid job, given that she’s a prototype--"]
+
+[36.7s]
+
+[cc text="Andrew: —your prototype, to prove if the Aurora Borealis makes sounds—"]
+
+[40.4s]
+
+[cc text="Emma: —that they almost definitely do not make."]
+
+[43.39s]
+
+[cc text="Emma digs around in the equipment."]
+
+[46.23s]
+
+[cc text="Andrew: What are you doing?"]
+
+[47.1s]
+
+[cc text="Emma: Looking for the field recorder."]
+
+[48.5s]
+
+[cc text="Andrew: Emma…"]
+
+[49.1s]
+
+[cc text="Emma: Well, if the Aurora shows up tonight and we don’t record its sounds... or, its lack of sounds... that kind of ruins the whole experiment, so."]
+
+[55.5s]  
+
+[cc text="Andrew: So you’re going out alone?"]
+
+[56.97s]
+
+[cc text="Emma: One of us has to stay and listen in case she comes back online. And I mean..."]
+
+[60.8s]
+
+[cc text="Andrew: I’m not a scientist."]
+
+[63.4s]
+
+[cc text="Emma: Well.... you’re not."]
+
+[65.2s]
+
+[cc text="Andrew: I go out with you all the time, I could do it."]
+
+[67.2s]
+
+[cc text="Emma: I don’t want you getting your hopes up. … I know you want to have some kind of, like, experience here, but I told you this would be very boring, and we probably will never hear a sound from the Northern Lights."]
+
+[78.27s]
+
+[cc text="Andrew: Well not with that attitude..."]
+
+[79.6s]
+
+[cc text="Emma: So you want to go out into the cold and the dark and fix Margaret?"]
+
+[82.7s]
+
+[cc text="Andrew: At least I’d feel useful around here for a minute."]
+
+[85.66s]
+
+[cc text="Emma: Well, I think it might be useful for me to talk a very long walk."]
+
+ [92s]
   
+  ~~
+
   *Who should go out to fix Margaret?*
 
   [emmaOrAndrew?]

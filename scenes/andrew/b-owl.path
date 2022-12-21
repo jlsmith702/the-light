@@ -2,13 +2,43 @@
 
 [audio src="media/b-owl.mp3"]
 
-~~
+_A light wind rustles the trees of the forest. Andrew’s footsteps crunch in the snow as he gets closer to the mysterious music._
 
-*Go up towards the signal? Or towards the glow?*
+_Suddenly, an owl bursts out from its nest, hooting and flapping its wings._
+
+Andrew: Whoa, whoa! Uh, hey, hi there. Hey, buddy.
+
+_The owl sounds annoyed._
+
+Andrew: Okay, okay, okay, you’re not my buddy, sorry.
+
+_Owl finally settles down._
+
+_Music continues. It’s strange and otherworldly._
+
+Andrew: Wow, it sounds like the music is coming from the owl’s nest...
+
+Andrew: I really wish this owl could talk.
+
+_The music quiets down. Andrew starts walking again._
+
+_Then: a glow begins to appear, with an eerie droning sound._
+
+Andrew: What is that?
+
+_The glowing sound echoes from one side._
+
+Andrew: Is that… is that a cave? Did you know there’s a cave here?
+
+_The owl hoots, flaps, flies away._
+
+Andrew: Bye, owl. I should really get up to Margaret, the lights are going to start up any minute. But… now there’s this glowing mystery cave. Which could of course be a hallucination. Or a death trap.
+
+*Go find out what’s happening with Margaret? Or venture into the cave?*
 
 [margaretOrCave?]
-  > Follow the radio signal. [margaret]
-  > Follow the glow. [cave]
+  > To Margaret [margaret]
+  > To the cave [cave]
 
 ~~ margaretOrCave = margaret?
 ~~> andrew/b-margaret

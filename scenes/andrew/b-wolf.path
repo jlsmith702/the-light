@@ -2,13 +2,51 @@
 
 [audio src="media/b-wolf.mp3"]
 
-~~
+_Andrew walks through the forest and approaches the fire._
 
-*Go up towards Marget and the radio sounds? Or into the strange glowing cave?*
+Andrew: Okay, so that’s a campfire. Hello?
+
+_A wolf emerges from the forest._
+
+Andrew: Okay, so that’s a wolf. Um. That… is a wolf. I am slowly backing away now...
+
+Wolf: Hi. I know this might be a little strange.
+
+Andrew: Am I talking to a wolf?
+
+Wolf: You’re totally freaking out, aren’t you. Look, sorry for the theatrics, but I’ve been trying to get your attention for a while, and let’s face it, your partner would probably shoot me on sight, so let’s not waste time.
+
+Andrew: Oh my god.
+
+Wolf: You’re not dead, if that’s what you’re thinking,
+
+Andrew: That _is_ what I was thinking.
+
+Wolf: Don’t worry, you’re alive, just—look, there’s something you need to see in the cave.
+
+Andrew: What cave?
+
+Wolf: That cave.
+
+_A glow pulses and echoes from a cave._
+
+Andrew: Oh, I’m not going in there.
+
+Wolf: It’s your funeral. I gotta go.
+
+Andrew: Wait, wait! Can you tell me anything about what’s going on?
+
+Wolf: Honestly… don’t take this the wrong way, but this is kind of my territory, and the sooner you two are gone, the better.
+
+_The wolf runs away._
+
+Andrew: Okay, now I really don’t know what to do. 
+
+*Go find out what’s happening with Margaret? Or venture into the cave?*
 
 [margaretOrCave?]
-  > Follow the radio signal. [margaret]
-  > Follow the glow. [cave]
+  > To Margaret [margaret]
+  > To the cave [cave]
 
 ~~ margaretOrCave = margaret?
 ~~> andrew/b-margaret
