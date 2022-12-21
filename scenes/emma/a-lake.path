@@ -8,31 +8,31 @@
 
 [37.06s]
 
-[light color="#342F59" size="xsmall" speed="xfast" x="50" y="50"]
+[light color="#9DC4CB" size="xsmall" speed="xfast" x="50" y="50"]
 
 [39.29s]
 
-[light color="#342F59" size="xsmall" speed="xfast" x="5" y="70"]
+[light color="#9DC4CB" size="xsmall" speed="xfast" x="5" y="70"]
 
 [40.25s]
 
-[light color="#342F59" size="xsmall" speed="xfast" x="60" y="35"]
+[light color="#9DC4CB" size="xsmall" speed="xfast" x="60" y="35"]
 
 [41.4s]
 
-[light color="#342F59" size="xsmall" speed="xfast" x="25" y="20"]
+[light color="#9DC4CB" size="xsmall" speed="xfast" x="25" y="20"]
 
 [42.81s]
 
-[light color="#342F59" size="xsmall" speed="xfast" x="45" y="20"]
+[light color="#9DC4CB" size="xsmall" speed="xfast" x="45" y="20"]
 
 [51.39s]
 
-[light color="#8C2214" size="medium" speed="slow" x="45" y="-5"]
+[light color="#8C2214" size="medium" speed="slow" loop="true" x="45" y="-5"]
 
 [59s]
 
-[light color="#1B5523" size="medium" speed="slow" x="99" y="25"]
+[light color="#219946" size="medium" speed="slow" loop="true" x="99" y="25"]
 ~~
 
 *Go towards the fire? Or the music?*

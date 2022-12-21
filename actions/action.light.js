@@ -44,6 +44,12 @@ Choicelab.Action("light", {
 	bottom: ${y + "%"};
 	left: ${x + "%"};
 	`;
+    if (action.x) {
+      lightEl.setAttribute("data-defined-x", "");
+    }
+    if (action.y) {
+      lightEl.setAttribute("data-defined-y", "");
+    }
     // Set background color
     const color = action.color ? action.color : "white";
     styles += `
@@ -57,5 +63,53 @@ Choicelab.Action("light", {
 		${styles}
 	}
 	`;
+  },
+});
+
+Choicelab.on("start", "checkLights", function () {
+  setInterval(function () {
+    const lights = document.querySelectorAll("#lights-container .light");
+    lights.forEach((light) => {
+      const lightStyle = window.getComputedStyle(light);
+      const opacity = lightStyle.getPropertyValue("opacity");
+      if (opacity < 0.01) {
+        if (!light.hasAttribute("data-defined-y")) {
+          light.style.bottom = Math.random() * 100 + "%";
+        }
+        if (!light.hasAttribute("data-defined-x")) {
+          light.style.left = Math.random() * 100 + "%";
+        }
+      }
+    }, 1000);
+  });
+});
+
+Choicelab.Action("clearlight", {
+  render: function (action) {
+    const container = document.querySelector("#lights-container");
+    if (!container) {
+      console.error(
+        "Lights could not clear because no #lights-container was found in template."
+      );
+      return;
+    }
+    const lightEls = container.querySelectorAll(".light");
+    lightEls.forEach((el) => {
+      const opacity = window.getComputedStyle(el).getPropertyValue("opacity");
+      const transform = window
+        .getComputedStyle(el)
+        .getPropertyValue("transform");
+      // el.setAttribute("data-clear-opacity", opacity);
+      el.style.opacity = opacity;
+      el.style.transform = transform;
+      el.classList.add("clear");
+      setTimeout(() => {
+        el.classList.add("clearing");
+      }, 50);
+      setTimeout(() => {
+        // el.parentNode.removeChild(el);
+      }, 1000);
+    });
+    action.done();
   },
 });

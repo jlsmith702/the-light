@@ -1,14 +1,19 @@
 ~~
 
+
 [audio src="media/a-headOut.mp3"]
 
-[13.33s]
+[13.51s]
+
+[clearlight]
+
+[14.5s]
   
-[light color="#342F59" size="large" speed="slow" x="0" y="-5"]
+[light color="#4A758D" size="large" speed="slow" loop="true"]
 
 [30.21s]
 
-[light color="#342F59" size="large" speed="slow" x="45" y="-5"]
+[light color="#4A758D" size="large" speed="slow" loop="true"]
 
 ~~
 

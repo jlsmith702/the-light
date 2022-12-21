@@ -30,6 +30,7 @@
     <script src="https://unpkg.com/@austinheller/choicelab@3.3.0/dist/choicelab.js"></script>
     <script src="actions/action.light.js"></script>
     <script>
+      // UI elements
       document.addEventListener("DOMContentLoaded", function () {
         var startButton = document.querySelector(
           "#start-overlay [data-play-button]"
@@ -42,6 +43,17 @@
           }
         });
       });
+      // Query param stuff (For debugging)
+      const params = new Proxy(new URLSearchParams(window.location.search), {
+        get: (searchParams, prop) => searchParams.get(prop),
+      });
+      // Get the value of "some_key" in eg "https://example.com/?some_key=some_value"
+      let value = params.debug; // "some_value"
+      console.log(value);
+      if (value === "true") {
+        choicelab.debug = "true";
+      }
+      console.log(choicelab);
     </script>
   </body>
 </html>

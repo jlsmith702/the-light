@@ -1,28 +1,23 @@
+~~ debug = true?
+~~> debug
+
 ~~
 
   [audio src="media/start.mp3"]
   
-  [light color="#272748" size="large" loop="slow" speed="slow" x="45" y="-5"]
-
-  [20s]
+  [light color="#4A4A8D" size="large" loop="true" speed="slow"]
   
-  [light color="#272748" size="large" speed="slow" x="0" y="-5"]
-
-  [23.6s]
+  [12s]
   
-  [light color="#17255B" size="xsmall" speed="xfast" x="30" y="45"]
+  [light color="#4A4A8D" size="large" loop="true" speed="slow"]
 
-  [40s]
-	
-  [light color="#272748" size="large" speed="slow" x="75" y="-5"]
+  [23.8s]
   
-  [60s]
-	  
-  [light color="#272748" size="large" speed="slow" x="75" y="45"]
-	  
-~~
+  [light color="#F3C541" size="xsmall" speed="xfast" x="50" y="45"]
 
-*Who should go out to fix Margaret?*
+  [92s]
+  
+  *Who should go out to fix Margaret?*
 
   [emmaOrAndrew?]
   > Emma [emma]

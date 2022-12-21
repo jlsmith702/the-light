@@ -1,0 +1,73 @@
+Choose a scene:
+
+[debugCharacter?]
+> Start [start]
+> Emma [emma]
+> Andrew [andrew]
+
+~~ debugCharacter = start?
+~~> start
+
+~~ debugCharacter = emma?
+
+[debugPath?]
+> Emma: Head out [a_headOut]
+> Emma: Lake [a_lake]
+> Emma: Stream [a_stream]
+> Emma: Wolf [a_wolf]
+> Emma: Owl [a_owl]
+> Emma: Cave [a_cave]
+> Emma: Margaret [a_margaret]
+
+~~ debugCharacter = andrew?
+
+[debugPath?]
+> Andrew: Head out [b_headOut]
+> Andrew: Lake [b_lake]
+> Andrew: Stream [b_stream]
+> Andrew: Wolf [b_wolf]
+> Andrew: Owl [b_owl]
+> Andrew: Cave [b_cave]
+> Andrew: Margaret [b_margaret]
+
+~~ debugPath = a_headOut?
+~~> emma/a-headOut
+
+~~ debugPath = a_lake?
+~~> emma/a-lake
+
+~~ debugPath = a_stream?
+~~> emma/a-stream
+
+~~ debugPath = a_wolf?
+~~> emma/a-wolf
+
+~~ debugPath = a_owl?
+~~> emma/a-owl
+
+~~ debugPath = a_cave?
+~~> emma/a-cave
+
+~~ debugPath = a_margaret?
+~~> emma/a-margaret
+
+~~ debugPath = b_headOut?
+~~> andrew/b-headOut
+
+~~ debugPath = b_lake?
+~~> andrew/b-lake
+
+~~ debugPath = b_stream?
+~~> andrew/b-stream
+
+~~ debugPath = b_wolf?
+~~> andrew/b-wolf
+
+~~ debugPath = b_owl?
+~~> andrew/b-owl
+
+~~ debugPath = b_cave?
+~~> andrew/b-cave
+
+~~ debugPath = b_margaret?
+~~> andrew/b-margaret

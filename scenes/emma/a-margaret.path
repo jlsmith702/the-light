@@ -1,62 +1,38 @@
 ~~
 
+[clearlight]
+
 [audio src="media/a-margaret.mp3"]
 
 [1.6s]
 
-[light color="#17255B" size="xsmall" speed="xfast" x="30" y="45"]
+[light color="#F3C541" size="xsmall" speed="xfast" loop="true"]
 
-[3s]
+[31s]
 
-[light color="#17255B" size="xsmall" speed="xfast" x="70" y="35"]
+[clearlight]
 
-[6s]
+[35s]
 
-[light color="#17255B" size="xsmall" speed="xfast" x="60" y="60"]
+[light color="#2B9F80" size="large" speed="slow" loop="true" x="45" y="99"]
 
-[9s]
+[37.5s]
+[light color="#11FF6C" size="large" speed="normal" loop="true" x="45" y="99"]
+[light color="#11FF6C" size="xsmall" speed="fast" loop="true" y="99"]
 
-[light color="#17255B" size="xsmall" speed="xfast" x="50" y="30"]
+[38.75s]
+[light color="#6BFCCB" size="small" speed="fast" loop="true" y="80"]
 
-[12s]
+[39s]
+[light color="#11FF6C" size="large" speed="normal" loop="true" x="45" y="0"]
 
-[light color="#17255B" size="xsmall" speed="xfast" x="45" y="80"]
+[41s]
+[light color="#11FF6C" size="xsmall" speed="fast" loop="true" y="0"]
+[light color="#06B449" size="small" speed="normal" loop="true" y="0"]
 
-[15s]
-
-[light color="#17255B" size="xsmall" speed="xfast" x="30" y="30"]
-
-[18s]
-
-[light color="#17255B" size="xsmall" speed="xfast" x="60" y="60"]
-
-[21s]
-
-[light color="#17255B" size="xsmall" speed="xfast" x="25" y="0"]
-
-[24s]
-
-[light color="#17255B" size="xsmall" speed="xfast" x="45" y="20"]
-
-[27s]
-
-[light color="#17255B" size="xsmall" speed="xfast" x="10" y="80"]
-
-[31.72s]
-
-[light color="#17255B" size="xsmall" speed="xfast" x="45" y="45"]
-
-[36s]
-
-[light color="#265E4F" size="large" speed="slow" loop="true" x="45" y="99"]
-
-[38s]
-
-[light color="#06B449" size="small" speed="normal" loop="true" x="25" y="95"]
-[light color="#06B449" size="small" speed="normal" loop="true" x="75" y="100"]
-
-[40s]
-[light color="#793487" size="medium" speed="slow" x="45" y="95"]
+[43.3s]
+[light color="#F439EE" size="medium" speed="slow" x="45" y="95" loop="true"]
+[light color="#F439EE" size="medium" speed="slow" x="45" y="0" loop="true"]
 
 ~~
 

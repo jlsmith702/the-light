@@ -2,41 +2,41 @@
 
 [audio src="media/a-wolf.mp3"]
 
+[clearlight]
+
+[1s]
+
+[light color="#B91F1A" size="medium" speed="slow" loop="true" x="45" y="-5"]
+
 [21.40s]
 
-[light color="#342F59" size="small" speed="medium" x="45" y="50"]
+[light color="#696970" size="small" speed="medium" x="45" y="50"]
 
 [29.39s]
 
-[light color="#4E4E53" size="medium" speed="fast" x="45" y="50"]
+[light color="#808087" size="medium" speed="fast" x="45" y="50"]
+
+[33s]
+
+[clearlight]
 
 [36s]
 
-[light color="#17255B" size="xsmall" speed="xfast" x="10" y="25"]
+[light color="#C2930C" size="medium" speed="slow" x="45" y="45"]
 
-[37s]
+[light color="#F3C541" size="xsmall" speed="xfast" loop="true"]
 
-[light color="#17255B" size="xsmall" speed="xfast" x="45" y="0"]
+[51s]
 
-[38s]
-
-[light color="#17255B" size="xsmall" speed="xfast" x="25" y="15"]
-
-[42.5s]
-
-[light color="#17255B" size="xsmall" speed="xfast" x="60" y="35"]
-
-[45s]
-
-[light color="#17255B" size="xsmall" speed="xfast" x="45" y="45"]
+[clearlight]
 
 [53.5s]
 
-[light color="#0A0A0F" class="large" speed="xslow" x="45" y="-5"]
+[light color="#0C0C0D" class="large" speed="xslow" x="45" y="-5"]
 
 [56.5s]
 
-[light color="#4D2626" class="xsmall" speed="xslow" x="35" y="-5"]
+[light color="#B42D88" class="xsmall" speed="xslow" x="35" y="-5" loop="true"]
 
 ~~
 

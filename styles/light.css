@@ -19,6 +19,15 @@
   filter: blur(30px);
 }
 
+#lights-container .light.clear {
+  animation: none !important;
+  transition: opacity 1s ease;
+}
+
+#lights-container .light.clear.clearing {
+  opacity: 0 !important;
+}
+
 #lights-container .light.xfast {
   animation-duration: 2s;
 }
@@ -42,7 +51,7 @@
 #lights-container .light.xsmall {
   width: 5px;
   height: 5px;
-  filter: blur(4px);
+  filter: blur(2px);
 }
 
 #lights-container .light.small {
@@ -53,7 +62,7 @@
 
 #lights-container .light.large {
   width: 150px;
-  heigth: 150px;
+  height: 150px;
   filter: blur(40px);
 }
 
