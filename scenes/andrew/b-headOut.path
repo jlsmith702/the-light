@@ -2,50 +2,65 @@
 
 [audio src="media/b-headOut.mp3"]
 
+[1.9s]
+[cc text=“Emma: Be careful, but… please try to hurry,”]
+
+[4.3s]
+[cc text=“Andrew: I know,”]
+
+[5.1s]
+[cc text=“Emma: just like, just go straight to Margaret—”]
+
+[7s]
+[cc text=“Andrew: —who is a microphone, by the way.”]
+
+[8.9s]
+[cc text=“Emma: I swear to god,”]
+
+[10.1s]
+[cc text=“Andrew: I’ll be back soon.”]
+
+[11.3s]
+[cc text=“Emma: Keep the field recorder running!”]
+
+[12.7s]
+[cc text=“The door opens and then shuts. Wind sweeps past.”]
+
 [12.72s]
 [clearlight]
 
 [14s]
 [light color="#4A758D" size="large" speed="slow" loop="true"]
 
+[15.5s]
+[cc text=“Andrew: Oh my god, that is very cold, okay. Okay. Here we go.”]
+
+[22.5s]
+[cc text=“He starts trudging through the snow.”]
+
+[24.7s]
+[cc text=“Andrew: I really miss daytime. Doing stuff in the daytime was pretty cool.”]
+
+[30.1s]
+[cc text=“Andrew: Maybe tonight will be the night we finally hear the sounds, though. It just feels like there’s, I don’t know, something in the air.”]
+
 [30.21s]
 [light color="#4A758D" size="large" speed="slow" loop="true"]
 
-~~
+[37.6s]
+[cc text=“Andrew: I know, I know, ‘you can’t feel feelings in the air, that’s not how air works.’”] 
 
-Emma: Be careful, but… please try to hurry,
+[42s]
+[cc text=“Footsteps slow, come to a stop.”]
 
-Andrew: I know,
+[44s]
+[cc text=“Andrew: Okay, The shortcut across the lake is… this way. With my luck, this’ll be the time the ice finally cracks, and I’ll plunge to an icy death.”] 
 
-Emma: just like, just go straight to Margaret—
+[52.7s]
+[cc text=“Andrew: Or I can take the long way around… but that does mean more chances of getting eaten by a bear. This place is great.”]
 
-Andrew: —who is a microphone, by the way.
-
-Emma: I swear to god,
-
-Andrew: I’ll be back soon.
-
-~~
-
-Emma: Keep the field recorder running!
-
-_The door opens and then shuts. Wind sweeps past._
-
-Andrew: Oh man, that is very cold, okay. Okay. Here we go.
-
-_He starts trudging through the snow._
-
-Andrew: I really miss daytime. Doing stuff in the daytime was pretty cool.
-
-~~
-
-Andrew: Maybe tonight will be the night we finally hear the sounds, though. It just feels like there’s, I don’t know, something in the air.
-
-Andrew: I know, I know, “you can’t feel feelings in the air, that’s not how air works.” 
-
-_Footsteps slow, come to a stop._
-
-Andrew: Okay, The shortcut across the lake is… this way. With my luck, this’ll be the time the ice finally cracks, and I’ll plunge to an icy death. Or I can take the long way around… but that does mean more chances of getting eaten by a bear. This place is great.
+[60s]
+[cc text=""]
 
 *Take the shortcut across the lake? Or the long way around?*
 

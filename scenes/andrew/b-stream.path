@@ -2,14 +2,41 @@
 
 [audio src="media/b-stream.mp3"]
 
+[0s]
+[cc text=“Running water, crunching snow, birds calling up above. It sounds pretty freakin’ lush as far as the arctic goes.”] 
+
+[1.6s]
+[cc text=“Andrew: See, this is why I’m always saying we should take this long route. It’s kind of...peaceful.”] 
+
 [2s]
 [light color="#395058" size="medium" speed="slow" loop="true" x="45" y="25"]
+
+[6.7s]
+[cc text=“Quiet, gurgling water.”] 
+
+[8.4s]
+[cc text=“Andrew: Okay, okay, here we go. The hot springs. God, they’re beautiful.”] 
+
+[15.7s]
+[cc text=“Andrew: Hear that? This is the sound of nature’s hot tub.”] 
 
 [20.7s]
 [light color="#06B449" size="small" speed="fast" x="90" y="25"]
 
+[21s]
+[cc text=“A musical sound arises from the water.”] 
+
+[25s]
+[cc text=“Andrew: Uhhhhmmm… what is that? … Is that coming from the water?”
+
 [29.16s]
 [light color="#06B449" size="medium" speed="fast" x="90" y="25"]
+
+[29.4s]
+[cc text=“Now it’s more clear, like a choir in the bubbles.”] 
+
+[34s]
+[cc text=“The music cuts off. Ravens fly up into the air, a cloud of screeches and whipping feathers.”] 
 
 [35s]
 [light color="#B7AEAB" size="small" speed="xfast"]
@@ -23,68 +50,53 @@
 [36.5s]
 [light color="#B7AEAB" size="small" speed="xfast"]
 
+[35.6s]
+[cc text=“Andrew: Ahhh!”] 
+
 [37s]
 [light color="#B7AEAB" size="small" speed="xfast"]
 
 [37.5s]
 [light color="#B7AEAB" size="small" speed="xfast"]
 
+[38.5s]
+[cc text=“Andrew: Alllll right, that was creepy. The peaceful walk is now over, let’s–get–out–of–here.”]  
+
+[43.7s]
+[cc text=“Andrew walks out of the hot spring.”] 
+
 [45s]
 [clearlight]
+
+[47.1s]
+[cc text=“Andrew: Okay, the forest path should be just ahead…”]  
+
+[49.3s]
+[cc text=“The sound of a crackling fire to one side.”] 
 
 [50s]
 [light color="#8C2214" size="medium" speed="slow" loop="true" x="45" y="-5"]
 
+[51.3s]
+[cc text=“Andrew: Is that... a fire? There’s not supposed to be anyone else up here. Right?”] 
+
 [57s]
 [light color="#06B449" class="medium" speed="slow" loop="true" x="90" y="25"]
 
-_Running water, crunching snow, birds calling up above. It sounds pretty freakin’ lush as far as the arctic goes._
+[57.1s]
+[cc text=“Soft music chords begin to play from the opposite direction.”] 
 
-Andrew: See, this is why I’m always saying we should take this long route. It’s kind of...peaceful.
+[60s]
+[cc text=“Andrew: Is that… music?”] 
 
-_Quiet, gurgling water._
+[62.8s]
+[cc text=“Crackling fire on one side, music on the other.”] 
 
-Andrew: Okay, okay, here we go. The hot springs. God, they’re beautiful.
+[64.5s]
+[cc text=“Andrew: Oh, this is officially terrifying.”] 
 
-_The water flows more heavily._
-
-Andrew: Hear that? This is the sound of nature’s hot tub.
-
-_A musical sound arises from the water._
-
-Andrew: Uhhhhmmm… what is that?
-
-~~
-
-Andrew: Is that coming from the water?
-
-_Now it’s more clear, like a choir in the bubbles._
-
-_The music cuts off._
-
-_Ravens fly up into the air, a cloud of screeches and whipping feathers._
-
-Andrew: Ahhh!
-
-~~
-
-Andrew: Alllll right, that was creepy. The peaceful walk is now over, let’s–get–out–of–here. 
-
-_Andrew walks out of the hot spring._
-
-Andrew: Okay, the forest path should be just ahead… 
-
-_The sound of a crackling fire to one side._
-
-Andrew: Is that... a fire? There’s not supposed to be anyone else up here. Right?
-
-_Soft music chords begin to play from the opposite direction._
-
-Andrew: Is that… music?
-
-_Crackling fire on one side, music on the other._
-
-Andrew: Oh, this is officially terrifying. 
+[69s]
+[cc text=""]
 
 *Check out the mysterious fire? Or the strange music?*
 

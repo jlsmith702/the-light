@@ -4,11 +4,7 @@
     
 [0.2s]
 
-[cc text="_A small space. In the background, a radio receiver crackles with a low hum of static and a monotonous bloop-bloop sound._"]
-
-[2.0s]
-
-[cc text="Andrew is looking out the window."]
+[cc text="A small space. In the background, a radio receiver crackles with a low hum of static and a monotonous bloop-bloop sound."]
 
 [4.18s]
  
@@ -28,7 +24,7 @@
  
  [10.0s]
   
-[cc text="Andrew: It’s the shortest day of the year. And up here, that means...two and a half hours of daylight. Total."]
+[cc text="Andrew: It’s the shortest day of the year. And up here, that means... two and a half hours of daylight. Total."]
 
   [12s]
   
@@ -71,7 +67,7 @@
 
 [29.9s]
 
-[cc text="Emma: She’s not _just_ a microphone,"]
+[cc text="Emma: She’s not just a microphone,"]
 
 [31.6s] 
 
@@ -79,7 +75,7 @@
 
 [33.5s]
 
-[cc text="Emma: —and I think she does a pretty solid job, given that she’s a prototype--"]
+[cc text="Emma: —and I think she does a pretty solid job, given that she’s a prototype—"]
 
 [36.7s]
 
@@ -107,7 +103,10 @@
 
 [49.1s]
 
-[cc text="Emma: Well, if the Aurora shows up tonight and we don’t record its sounds... or, its lack of sounds... that kind of ruins the whole experiment, so."]
+[cc text="Emma: Well, if the Aurora shows up tonight and we don’t record its sounds... or, its lack of sounds...]
+
+[53.3]
+[cc text="Emma: ...that kind of ruins the whole experiment, so."]
 
 [55.5s]  
 
@@ -117,7 +116,7 @@
 
 [cc text="Emma: One of us has to stay and listen in case she comes back online. And I mean..."]
 
-[60.8s]
+[61s]
 
 [cc text="Andrew: I’m not a scientist."]
 
@@ -131,7 +130,19 @@
 
 [67.2s]
 
-[cc text="Emma: I don’t want you getting your hopes up. … I know you want to have some kind of, like, experience here, but I told you this would be very boring, and we probably will never hear a sound from the Northern Lights."]
+[cc text="Emma: I don’t want you getting your hopes up."] 
+
+[70.57s]
+
+[cc text="Emma: I know you want to have some kind of, like, experience here,"] 
+
+[73.67s]
+
+[cc text="Emma: but I told you this would be very boring,"]
+
+[75.2s]
+
+[cc text="Emma: and we probably will never hear a sound from the Northern Lights."]
 
 [78.27s]
 
@@ -147,9 +158,10 @@
 
 [85.66s]
 
-[cc text="Emma: Well, I think it might be useful for me to talk a very long walk."]
+[cc text="Emma: Well, I think it might be useful for me to take a very long walk."]
 
  [92s]
+ [cc text=""]
   
   *Who should go out to fix Margaret?*
 

@@ -3,23 +3,59 @@
 [audio src="media/b-owl.mp3"]
 [clearlight]
 
+[0s]
+[cc text=“Andrew’s footsteps crunch in the snow as he gets closer to the mysterious music. Suddenly, an owl bursts out from its nest, hooting and flapping its wings.”]
+
 [0.46s]
 [light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[1.16s]
+[cc text=“Andrew: Whoa, whoa! Uh, hey, hi there. Hey, buddy.”]
 
 [5s]
 [light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
 
+[5.3s]
+[cc text=“The owl sounds annoyed.”]
+
 [5.9s]
 [light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[6.9s]
+[cc text=“Andrew: Okay, okay, okay, you’re not my buddy, sorry.”]
+
+[9.3s]
+[cc text=“Owl finally settles down. The music continues. It’s strange and otherworldly.”]
 
 [9.31s]
 [light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
 
+[11.2s]
+[cc text=“Andrew: Wow, it sounds like the music is coming from the owl’s nest…”]
+
+[15.3s]
+[cc text=“Andrew: I really wish this owl could talk.”]
+
+[17s]
+[cc text=“The music quiets down. Andrew starts walking again.”]
+
+[20s]
+[cc text=“Then: a glow begins to appear, with an eerie droning sound.]
+
 [20.98s]
 [light color="#0C0C0D" class="large" speed="xslow" x="45" y="-5"]
 
+[21.1s]
+[cc text=“Andrew: Wait, what is that?”]
+
 [22.1s]
 [light color="#B42D88" class="xsmall" speed="xslow" x="35" y="-5" loop="true"]
+
+[23.3s]
+[cc text=“Andrew: Is that… is that a cave? Did you know there’s a cave here?”]
+
+[27.3s]
+[cc text=“The owl hoots, flaps, flies away.”]
 
 [27.4s]
 [light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
@@ -27,37 +63,14 @@
 [28.2s]
 [light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
 
-_A light wind rustles the trees of the forest. Andrew’s footsteps crunch in the snow as he gets closer to the mysterious music._
+[30.3s]
+[cc text=“Andrew: Bye, owl. I should really get up to Margaret, the lights are going to start up any minute. But…”] 
 
-_Suddenly, an owl bursts out from its nest, hooting and flapping its wings._
+[36.1s]
+[cc text=“Andrew: …now there’s this glowing mystery cave. Which could of course be a hallucination. Or a death trap.”]
 
-Andrew: Whoa, whoa! Uh, hey, hi there. Hey, buddy.
-
-_The owl sounds annoyed._
-
-Andrew: Okay, okay, okay, you’re not my buddy, sorry.
-
-_Owl finally settles down._
-
-_Music continues. It’s strange and otherworldly._
-
-Andrew: Wow, it sounds like the music is coming from the owl’s nest...
-
-Andrew: I really wish this owl could talk.
-
-_The music quiets down. Andrew starts walking again._
-
-_Then: a glow begins to appear, with an eerie droning sound._
-
-Andrew: What is that?
-
-_The glowing sound echoes from one side._
-
-Andrew: Is that… is that a cave? Did you know there’s a cave here?
-
-_The owl hoots, flaps, flies away._
-
-Andrew: Bye, owl. I should really get up to Margaret, the lights are going to start up any minute. But… now there’s this glowing mystery cave. Which could of course be a hallucination. Or a death trap.
+[42.5s]
+[cc text=""]
 
 *Go find out what’s happening with Margaret? Or venture into the cave?*
 

@@ -4,27 +4,69 @@
 
 [audio src="media/a-margaret.mp3"]
 
-[1.6s]
+[0s]
+[cc text="The wind whistles past. Emma walks through the snow to the blips and static of Margaret."]
 
+[1.6s]
 [light color="#F3C541" size="xsmall" speed="xfast" loop="true"]
 
-[26.1s]
+[3.4s]
+[cc text="Emma: Okay, Margaret. What’s the matter with you?"]
 
+[6.65s]
+[cc text="Emma: You’re only supposed to be tuned into one thing. You just listen, for the Aurora, every night. You see if it shows up. You see if it makes a sound."]
+
+[14.8s]
+[cc text="Emma: Because people say it makes a sound. But we both know that’s not possible."]
+
+[20.7s]
+[cc text="Emma: It’s probably not possible. But I had to be sure."]
+
+[26.1s]
 [clearlight]
 
-[31s]
+[26.4s]
+[cc text="Suddenly, the static and radio signal cut out."]
 
+[29.2s]
+[cc text="Emma: The mics are all dead."]
+
+[31s]
 [light color="#2B9F80" size="large" speed="slow" loop="true" x="45" y="99"]
+
+[31.6s]
+[cc text="A glittery, musical sound starts from the sky, in the distance."]
+
+[34.8s]
+[cc text="Emma (hushed): The Aurora. Gets me every time."]
 
 [37.5s]
 [light color="#11FF6C" size="large" speed="normal" loop="true" x="45" y="99"]
 [light color="#11FF6C" size="xsmall" speed="fast" loop="true" y="99"]
+
+[38.6s]
+[cc text="The sound grows and grows towards her."]
 
 [38.75s]
 [light color="#6BFCCB" size="small" speed="fast" loop="true" y="80"]
 
 [39s]
 [light color="#11FF6C" size="large" speed="normal" loop="true" x="45" y="0"]
+
+[44.8s]
+[cc text="Emma: Oh my god. It’s real. He was right."]
+
+[48.5s]
+[cc text="The musical sound is everywhere now."]
+
+[50.5s]
+[cc text="Emma: It’s perfect."]
+
+[55s]
+[cc text="Emma: I’ll tell him. I’ll tell him later."]
+
+[60s]
+[cc text="The sound and the Lights take over."]
 
 [61s]
 [light color="#11FF6C" size="xsmall" speed="fast" loop="true" y="0"]
@@ -33,66 +75,6 @@
 [63.3s]
 [light color="#F439EE" size="medium" speed="slow" x="45" y="95" loop="true"]
 [light color="#F439EE" size="medium" speed="slow" x="45" y="0" loop="true"]
-
-[0s]
-
-[cc text="The wind whistles past. Emma walks through the snow to the blips and static of Margaret."]
-
-[3.4s]
-
-[cc text="Emma: Okay, Margaret. What’s the matter with you?"]
-
-[6.65s]
-
-[cc text="Emma: You’re only supposed to be tuned into one thing. You just listen, for the Aurora, every night. You see if it shows up. You see if it makes a sound."]
-
-[14.8s]
-
-[cc text="Emma: Because people say it makes a sound. But we both know that’s not possible."]
-
-[20.7s]
-
-[cc text="Emma: It’s probably not possible. But I had to be sure."]
-
-[26.4s]
-
-[cc text="Suddenly, the static and radio signal cut out."]
-
-[29.2s]
-
-[cc text="Emma: The mics are all dead."]
-
-[31.6s]
-
-[cc text="A glittery, musical sound starts from the sky, in the distance."]
-
-[34.8s]
-
-[cc text="Emma (hushed): The Aurora. Gets me every time."]
-
-[38.6s]
-
-[cc text="The sound grows and grows towards her."]
-
-[44.8s]
-
-[cc text="Emma: Oh my god. It’s real. He was right."]
-
-[48.5s]
-
-[cc text="The musical sound is everywhere now."]
-
-[50.5s]
-
-[cc text="Emma: It’s perfect."]
-
-[55s]
-
-[cc text="Emma: I’ll tell him. I’ll tell him later."]
-
-[60s]
-
-[cc text="The sound and the Lights take over."]
 
 [91s]
 [clearlight]

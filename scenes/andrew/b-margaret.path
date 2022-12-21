@@ -3,14 +3,44 @@
 [audio src="media/b-margaret.mp3"]
 [clearlight]
 
+[0s]
+[cc text=“The blips and radio static of Margaret, and the wind swishing past.”]
+
 [1.5s]
 [light color="#F3C541" size="xsmall" speed="xfast" loop="true"]
+
+[4.15s]
+[cc text=“Andrew: All right, Margaret, let’s see how you’re doing. We need you up and running for this light show...”]
+
+[9.6s]
+[cc text=“Signals and strange noises keep tuning in and out.”]
+
+[11.45s]
+[cc text=“Andrew: Ohhhkayyy, this does not seem good, why are there so many flashing lights? Can you hear that? It sounds like she’s trying to pick up radio stations or something.”]
+
+[20.4s]
+[cc text=“More digital chaos. Andrew sighs.”]
+
+[23.1s]
+[cc text=“Andrew: God, you were right: I’m not a scientist. I should have just stayed behind.”]
+
+[28.3s]
+[cc text=“Very suddenly, Margaret cuts out and goes silent.”]
 
 [28.5s]
 [clearlight]
 
+[30.7s]
+[cc text=“Andrew: Um… Margaret? She, uh… she just went completely dark. Um…”]
+
+[37.45s]
+[cc text=“The Northern Lights begin to glow. A glittery, musical sound comes with them.”]
+
 [38.16s]
 [light color="#11FF6C" size="large" speed="slow" loop="true" x="45" y="99"]
+
+[41s]
+[cc text=“Andrew: Oh, wow. It’s the Northern Lights. They’re starting.”] 
 
 [44.23s]
 [light color="#6BFCCB" size="small" speed="normal" loop="true" y="80"]
@@ -18,8 +48,29 @@
 [46s]
 [light color="#11FF6C" size="small" speed="fast" loop="true" y="99"]
 
+[46.6s]
+[cc text=“Andrew: Oh my– The whole sky is lighting up, like… it’s never been this intense before!”]
+
+[53.6s]
+[cc text=“Andrew: Everything’s offline, all the mics are dead, nothing’s working.”]
+
 [56s]
 [light color="#11FF6C" size="large" speed="normal" loop="true" x="45" y="0"]
+
+[56.6s]
+[cc text=“The Lights radiate… and then they begin to reveal their sounds. Glittery music washes through the air.”]
+
+[61.2s]
+[cc text=“Andrew: ...but I can hear it. I can hear it. It’s almost like music.”]
+
+[71.8s]
+[cc text=“Andrew: Oh, I wish you were here.”]
+
+[75.5s]
+[cc text=“Andrew: I’ll try really hard to remember how it sounds.”]
+
+[79.5s]
+[cc text=“Music swells. The sound of the Aurora expands and fills the space around him.”]
 
 [80s]
 [light color="#11FF6C" size="xsmall" speed="fast" loop="true" y="0"]
@@ -34,33 +85,3 @@
 
 [115s]
 [cc text=""]
-
-_The blips and radio static of Margaret, and the wind swishing past._
-
-Andrew: All right, Margaret, let’s see how you’re doing. We need you up and running for this light show...
-
-_Signals and strange noises keep tuning in and out._
-
-Andrew: Ohhhkayyy, this does not seem good, why are there so many flashing lights? Can you hear that? It sounds like she’s trying to pick up radio stations or something.
-
-_More digital chaos. Andrew sighs._
-
-Andrew: God, you were right: I’m not a scientist. I should have just stayed behind.
-
-_Very suddenly, Margaret cuts out and goes silent._
-
-Andrew: Um… Margaret? She, uh… she just went completely dark. Um…
-
-_The Northern Lights begin to glow. A glittery, musical sound comes with them._
-
-Andrew: Oh, wow. It’s the Northern Lights. They’re starting. Oh my– The whole sky is lighting up, like… it’s never been this intense before!
-
-Andrew: Everything’s offline, all the mics are dead, nothing’s working.
-
-_The Lights radiate… and then they begin to reveal their sounds. Glittery music washes through the air._
-
-Andrew: ...but I can hear it. I can hear it. It’s almost like music. Oh, I wish you were here... I’ll try really hard to remember how it sounds.
-
-_Music swells. The sound of the Aurora expands and fills the space around him._
-
-~~
