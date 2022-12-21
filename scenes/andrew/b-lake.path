@@ -118,14 +118,10 @@
 
 *Check out the mysterious fire? Or the strange music?*
 
-  [fireOrSong?]
+[fireOrSong?]
   > The fire [fire]
   > The music [song]
-
-  [fireOrSong?]
-  > Follow the sound of the fire. [fire]
-  > Follow the mysterious song. [song]
-
+  
 ~~ fireOrSong = fire?
 ~~> andrew/b-wolf
 
