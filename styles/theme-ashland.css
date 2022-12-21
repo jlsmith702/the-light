@@ -1,4 +1,5 @@
 :root {
+  --padding-small: 1rem;
   --padding: 2rem;
   --max-width: 1200px;
   --button-color: #34a245;
@@ -8,7 +9,7 @@
 }
 
 html {
-  font-size: 19px;
+  font-size: 18px;
 }
 body {
   background-color: var(--background-color);
@@ -28,9 +29,12 @@ body {
   top: 0;
   z-index: 5;
   max-width: var(--max-width);
-  padding: var(--padding);
+  padding: var(--padding-small);
   margin-left: auto;
   margin-right: auto;
+  @media (min-width: 801px) {
+    padding: var(--padding);
+  }
 }
 
 #controls {

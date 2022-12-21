@@ -81,16 +81,18 @@
   }
 }
 
-#controls {
-  height: 60px;
-}
+@media (min-width: 801px) {
+  #controls {
+    height: 60px;
+  }
 
-.overlay {
-  height: calc(100% - 60px);
-  bottom: 60px;
-}
+  .overlay {
+    height: calc(100% - 60px);
+    bottom: 60px;
+  }
 
-#controls button svg {
-  height: 25px;
-  width: auto;
+  #controls button svg {
+    height: 25px;
+    width: auto;
+  }
 }
