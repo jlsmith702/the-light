@@ -49,15 +49,15 @@
 }
 
 #lights-container .light.xsmall {
-  width: 5px;
-  height: 5px;
+  width: 6px;
+  height: 6px;
   filter: blur(2px);
 }
 
 #lights-container .light.small {
-  width: 50px;
-  height: 50px;
-  filter: blur(15px);
+  width: 21px;
+  height: 21px;
+  filter: blur(9px);
 }
 
 #lights-container .light.large {

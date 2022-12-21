@@ -2,6 +2,42 @@
 
 [audio src="media/a-stream.mp3"]
 
+[2.1s]
+[light color="#395058" size="medium" speed="slow" loop="true" x="45" y="25"]
+	
+[14.5s]
+[light color="#06B449" size="small" speed="fast" x="90" y="25"]
+
+[24.9s]
+[light color="#06B449" size="medium" speed="fast" x="90" y="25"]
+
+[29.5s]
+[light color="#B7AEAB" size="small" speed="xfast"]
+
+[30s]
+[light color="#B7AEAB" size="small" speed="xfast"]
+
+[30.5s]
+[light color="#B7AEAB" size="small" speed="xfast"]
+
+[31s]
+[light color="#B7AEAB" size="small" speed="xfast"]
+
+[31.5s]
+[light color="#B7AEAB" size="small" speed="xfast"]
+
+[32s]
+[light color="#B7AEAB" size="small" speed="xfast"]
+
+[38s]
+[clearlight]
+
+[44s]
+[light color="#06B449" size="medium" speed="slow" x="90" y="25"]
+
+[50.1s]
+[light color="#8C2214" size="medium" speed="slow" loop="true" x="45" y="-5"]
+
 [cc text="Running water, crunching snow, birds calling up above. It sounds pretty freakin’ lush as far as the arctic goes."]
 
 [2.1s]
@@ -50,7 +86,7 @@
 
 [47s]
 
-[cc text="Emma: … Musical tinnitus? That can’t be good."
+[cc text="Emma: … Musical tinnitus? That can’t be good."]
 
 [49.8s]
 

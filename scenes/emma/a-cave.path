@@ -2,6 +2,39 @@
 
 [audio src="media/a-cave.mp3"]
 
+[27s]
+[clearlight]
+
+[29.7s]
+[light color="#9CDDC7" speed="xfast" size="xsmall" loop="true"]
+
+[31.3s]
+[light color="#11FDFF" speed="xfast" size="xsmall" loop="true"]
+
+[33.1s]
+[light color="#FF11FD" speed="xfast" size="xsmall" loop="true"]
+
+[33.8s]
+[light color="#9CDDC7" speed="xfast" size="xsmall" loop="true"]
+
+[46.3s]
+[light color="#11FF6C" speed="fast" size="xsmall" loop="true" y="0"]
+
+[48.9s]
+[light color="#06B449" size="small" speed="normal" loop="true" y="0"]
+
+[57.62s]
+[light color="#11FF6C" size="large" speed="normal" loop="true" x="45" y="99"]
+
+[60.51s]
+[light color="#11FF6C" size="large" speed="normal" loop="true" x="45" y="0"]
+
+[61.25s]
+[light color="#F439EE" size="medium" speed="slow" x="45" y="95" loop="true"]
+
+[62.9s]
+[light color="#F439EE" size="medium" speed="slow" x="45" y="0" loop="true"]
+
 [0s]
 
 [cc text="Water dripping off icicles. A strange droning sound from the far end."]
@@ -32,7 +65,7 @@
 
 [46.38s]
 
-[cc text="Emma: It’s colored lights, it’s the Aurora, it’s beautiful like always, but, the way it fills this space, and reflects, the whole place is lit up, and, and… I– 
+[cc text="Emma: It’s colored lights, it’s the Aurora, it’s beautiful like always, but, the way it fills this space, and reflects, the whole place is lit up, and, and… I–"]
 
 [61.3s]
 
@@ -49,6 +82,12 @@
 [73.46s]
 
 [cc text="The sound of the Aurora bursts forth and fills the entire space."]
+
+[101s]
+[clearlight]
+
+[106s]
+[cc text=""]
 
 ~~
 

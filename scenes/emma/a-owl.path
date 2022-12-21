@@ -1,6 +1,55 @@
 ~~
 
+[clearlight]
 [audio src="media/a-owl.mp3"]
+
+[1.1s]
+[light color="#219946" size="medium" speed="slow" loop="true" x="99" y="25"]
+
+[4.37s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[5.28s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[9.10s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[13.34s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[14.42s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[15.41s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[19.87s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[21.84s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[33s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[34.9s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[37.22s]
+[light color="#F75721" speed="xfast" size="small" x="45" y="45"]
+
+[45s]
+[clearlight]
+
+[48.89s]
+[light color="#F3C541" size="xsmall" speed="xfast" loop="true"]
+
+[53.5s]
+[light color="#0C0C0D" class="large" speed="xslow" x="45" y="-5"]
+
+[58s]
+[light color="#B42D88" class="xsmall" speed="xslow" x="35" y="-5" loop="true"]
 
 [0s]
 
@@ -60,7 +109,7 @@
 
 [56.7s]
 
-Emma: Wait, is that a cave? Is that cave glowing? That shouldn’t be possible. Should that be possible?
+[cc text="Emma: Wait, is that a cave? Is that cave glowing? That shouldn’t be possible. Should that be possible?"]
 
 [63.3s]
 

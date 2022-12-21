@@ -2,6 +2,39 @@
 
 [audio src="media/a-lake.mp3"]
 
+[0.53s]
+[light color="#3B71BA" size="xsmall" speed="xfast"]
+
+[6.53s]
+[light color="#3B71BA" size="xsmall" speed="xfast"]
+
+[12.62s]
+[light color="#3B71BA" size="xsmall" speed="xfast"]
+
+[18.3s]
+[light color="#3B71BA" size="xsmall" speed="xfast"]
+
+[24.4s]
+[light color="#3B71BA" size="xsmall" speed="xfast" x="45" y="45"]
+
+[26.38s]
+[light color="#9DC4CB" size="small" speed="xfast" y="50"]
+
+[28.63s]
+[light color="#9DC4CB" size="small" speed="xfast" y="50"]
+
+[29.62s]
+[light color="#9DC4CB" size="small" speed="xfast" x="25" y="20"]
+
+[32.26s]
+[light color="#9DC4CB" size="small" speed="xfast" x="50" y="50"]
+
+[47s]
+[light color="#8C2214" size="medium" speed="slow" loop="true" x="45" y="-5"]
+
+[53.16s]
+[light color="#219946" size="medium" speed="slow" loop="true" x="99" y="25"]
+
 [0s]
 
 [cc text="Emma walks across the frozen lake. There’s a light wind. And something that sounds almost like lasers firing?"]
@@ -46,29 +79,9 @@
 
 [cc text="She makes it off the lake. She takes a moment, breathing hard."]
 
-[37.06s]
-
-[light color="#9DC4CB" size="xsmall" speed="xfast" x="50" y="50"]
-
 [39.1s]
 
 [cc text="Emma: I’ve never been so happy to see a dark forest."]
-
-[39.29s]
-
-[light color="#9DC4CB" size="xsmall" speed="xfast" x="5" y="70"]
-
-[40.25s]
-
-[light color="#9DC4CB" size="xsmall" speed="xfast" x="60" y="35"]
-
-[41.4s]
-
-[light color="#9DC4CB" size="xsmall" speed="xfast" x="25" y="20"]
-
-[42.81s]
-
-[light color="#9DC4CB" size="xsmall" speed="xfast" x="45" y="20"]
 
 [43s]
 
@@ -82,10 +95,6 @@
 
 [cc text="Emma: What? Is that a fire? No one else should be out here."]
 
-[51.39s]
-
-[light color="#8C2214" size="medium" speed="slow" loop="true" x="45" y="-5"]
-
 [53s]
 
 [cc text="…and soft chords of music."]
@@ -94,10 +103,6 @@
 
 [cc text="Emma: And there definitely super should not be anything that sounds like... music?"]
 
-[59s]
-
-[light color="#219946" size="medium" speed="slow" loop="true" x="99" y="25"]
-
 [62s]
 
 *Check out the mysterious fire? Or the strange music?*
@@ -105,14 +110,6 @@
 [fireOrSong?]
   > The fire [fire]
   > The music [song]
-
-
-
-*Go towards the fire? Or the music?*
-
-  [fireOrSong?]
-  > Follow the fire. [fire]
-  > Follow the music. [song]
 
 ~~ fireOrSong = fire?
 ~~> emma/a-wolf

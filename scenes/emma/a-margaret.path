@@ -8,11 +8,11 @@
 
 [light color="#F3C541" size="xsmall" speed="xfast" loop="true"]
 
-[31s]
+[26.1s]
 
 [clearlight]
 
-[35s]
+[31s]
 
 [light color="#2B9F80" size="large" speed="slow" loop="true" x="45" y="99"]
 
@@ -26,11 +26,11 @@
 [39s]
 [light color="#11FF6C" size="large" speed="normal" loop="true" x="45" y="0"]
 
-[41s]
+[61s]
 [light color="#11FF6C" size="xsmall" speed="fast" loop="true" y="0"]
 [light color="#06B449" size="small" speed="normal" loop="true" y="0"]
 
-[43.3s]
+[63.3s]
 [light color="#F439EE" size="medium" speed="slow" x="45" y="95" loop="true"]
 [light color="#F439EE" size="medium" speed="slow" x="45" y="0" loop="true"]
 
@@ -94,7 +94,8 @@
 
 [cc text="The sound and the Lights take over."]
 
-~~
+[91s]
+[clearlight]
 
-
-
+[96s]
+[cc text=""]

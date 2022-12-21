@@ -8,33 +8,34 @@
 
 [light color="#B91F1A" size="medium" speed="slow" loop="true" x="45" y="-5"]
 
-[21.40s]
+[4.18s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="50"]
 
-[light color="#696970" size="small" speed="medium" x="45" y="50"]
+[25.9s]
+[light color="#696970" size="xsmall" speed="fast" x="45" y="50"]
 
-[29.39s]
-
-[light color="#808087" size="medium" speed="fast" x="45" y="50"]
+[28.3s]
+[light color="#696970" size="medium" speed="fast" x="45" y="50"]
 
 [33s]
 
 [clearlight]
 
-[36s]
+[37.94s]
 
 [light color="#C2930C" size="medium" speed="slow" x="45" y="45"]
 
 [light color="#F3C541" size="xsmall" speed="xfast" loop="true"]
 
-[51s]
+[54s]
 
 [clearlight]
 
-[53.5s]
+[57s]
 
 [light color="#0C0C0D" class="large" speed="xslow" x="45" y="-5"]
 
-[56.5s]
+[60s]
 
 [light color="#B42D88" class="xsmall" speed="xslow" x="35" y="-5" loop="true"]
 
