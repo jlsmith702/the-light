@@ -1,8 +1,8 @@
 :root {
   --padding: 2rem;
   --max-width: 1200px;
-  --button-color: #34A245;
-  --button-color-active: #2C8739;
+  --button-color: #34a245;
+  --button-color-active: #2c8739;
   --background-color: #1f1f2e;
   --text-color: white;
 }
@@ -21,12 +21,12 @@ body {
 }
 
 #stage {
-	position: relative;
-	width: 100%;
-	height: calc(100% - 44px);
-	left: 0;
-	top: 0;
-	z-index: 5;
+  position: relative;
+  width: 100%;
+  height: calc(100% - 44px);
+  left: 0;
+  top: 0;
+  z-index: 5;
   max-width: var(--max-width);
   padding: var(--padding);
   margin-left: auto;
@@ -34,24 +34,24 @@ body {
 }
 
 #controls {
-	position: absolute;
-	width: 100%;
-	height: 44px;
-	left: 50%;
-	bottom: 0;
-	z-index: 10;
+  position: absolute;
+  width: 100%;
+  height: 44px;
+  left: 50%;
+  bottom: 0;
+  z-index: 10;
   display: flex;
   max-width: var(--max-width);
   transform: translateX(-50%);
 }
 
 .overlay {
-	position: absolute;
-	width: 100%;
-	height: calc(100% - 44px);
-	left: 0;
-	bottom: 44px;
-	z-index: 15;
+  position: absolute;
+  width: 100%;
+  height: calc(100% - 44px);
+  left: 0;
+  bottom: 44px;
+  z-index: 15;
 }
 
 p[data-action="text"] {
@@ -72,7 +72,7 @@ button:not(.controls):not(.overlay) {
   border-radius: 0.3rem;
   padding: 0.4rem 0.7rem;
   min-width: 5rem;
-  transform: scale(1.00);
+  transform: scale(1);
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
@@ -83,7 +83,6 @@ button:not(.controls):not(.overlay):hover {
 button:not(.controls):not(.overlay):active {
   background-color: var(--button-color-active);
 }
-
 
 /* Overlays */
 
@@ -146,13 +145,11 @@ button:not(.controls):not(.overlay):active {
   fill: var(--button-color);
 }
 
-
 /* Stage templates */
 
 [data-default-template] {
   margin-top: 1rem;
 }
-
 
 /* Action transitions */
 
@@ -177,11 +174,45 @@ button:not(.controls):not(.overlay):active {
   opacity: 1;
 }
 
-[data-action="input"].appear > *:nth-child(2) { transition-delay: 100ms; }
-[data-action="input"].appear > *:nth-child(3) { transition-delay: 200ms; }
-[data-action="input"].appear > *:nth-child(4) { transition-delay: 300ms; }
-[data-action="input"].appear > *:nth-child(5) { transition-delay: 400ms; }
-[data-action="input"].appear > *:nth-child(6) { transition-delay: 500ms; }
-[data-action="input"].appear > *:nth-child(7) { transition-delay: 600ms; }
-[data-action="input"].appear > *:nth-child(8) { transition-delay: 700ms; }
-[data-action="input"].appear > *:nth-child(9) { transition-delay: 800ms; }
+[data-action="input"].appear > *:nth-child(2) {
+  transition-delay: 100ms;
+}
+[data-action="input"].appear > *:nth-child(3) {
+  transition-delay: 200ms;
+}
+[data-action="input"].appear > *:nth-child(4) {
+  transition-delay: 300ms;
+}
+[data-action="input"].appear > *:nth-child(5) {
+  transition-delay: 400ms;
+}
+[data-action="input"].appear > *:nth-child(6) {
+  transition-delay: 500ms;
+}
+[data-action="input"].appear > *:nth-child(7) {
+  transition-delay: 600ms;
+}
+[data-action="input"].appear > *:nth-child(8) {
+  transition-delay: 700ms;
+}
+[data-action="input"].appear > *:nth-child(9) {
+  transition-delay: 800ms;
+}
+
+/* Captions */
+
+#captions {
+  width: 100%;
+  max-width: 550px;
+  position: absolute;
+  z-index: 10;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 75px;
+}
+
+#captions p {
+  color: white;
+  text-shadow: rgba(0, 0, 0, 0.6) 0 1px 8px;
+  text-align: center;
+}
