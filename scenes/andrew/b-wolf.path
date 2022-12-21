@@ -1,6 +1,76 @@
 ~~
 
 [audio src="media/b-wolf.mp3"]
+[clearlight]
+
+[1s]
+[light color="#B91F1A" size="medium" speed="slow" loop="true" x="45" y="-5"]
+
+[7.97s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[9.67s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[19.5s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[21.77s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[25.98s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[28.63s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[30.17s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[32.26s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[33.1s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[34.7s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[36s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[37.96s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[41.16s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[42.89s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[44.64s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[47.18s]
+[light color="#0C0C0D" size="small" speed="normal" x="15" y="70"]
+
+[48.86s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[52.39s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[58.34s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[60.67s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[62.78s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
+
+[64.13s]
+[light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
 
 _Andrew walks through the forest and approaches the fire._
 

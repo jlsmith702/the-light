@@ -1,6 +1,31 @@
 ~~
 
 [audio src="media/b-owl.mp3"]
+[clearlight]
+
+[0.46s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[5s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[5.9s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[9.31s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[20.98s]
+[light color="#0C0C0D" class="large" speed="xslow" x="45" y="-5"]
+
+[22.1s]
+[light color="#B42D88" class="xsmall" speed="xslow" x="35" y="-5" loop="true"]
+
+[27.4s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
+
+[28.2s]
+[light color="#F75721" speed="xfast" size="xsmall" x="45" y="45"]
 
 _A light wind rustles the trees of the forest. Andrew’s footsteps crunch in the snow as he gets closer to the mysterious music._
 

@@ -2,6 +2,42 @@
 
 [audio src="media/b-stream.mp3"]
 
+[2s]
+[light color="#395058" size="medium" speed="slow" loop="true" x="45" y="25"]
+
+[20.7s]
+[light color="#06B449" size="small" speed="fast" x="90" y="25"]
+
+[29.16s]
+[light color="#06B449" size="medium" speed="fast" x="90" y="25"]
+
+[35s]
+[light color="#B7AEAB" size="small" speed="xfast"]
+
+[35.5s]
+[light color="#B7AEAB" size="small" speed="xfast"]
+
+[36s]
+[light color="#B7AEAB" size="small" speed="xfast"]
+
+[36.5s]
+[light color="#B7AEAB" size="small" speed="xfast"]
+
+[37s]
+[light color="#B7AEAB" size="small" speed="xfast"]
+
+[37.5s]
+[light color="#B7AEAB" size="small" speed="xfast"]
+
+[45s]
+[clearlight]
+
+[50s]
+[light color="#8C2214" size="medium" speed="slow" loop="true" x="45" y="-5"]
+
+[57s]
+[light color="#06B449" class="medium" speed="slow" loop="true" x="90" y="25"]
+
 _Running water, crunching snow, birds calling up above. It sounds pretty freakin’ lush as far as the arctic goes._
 
 Andrew: See, this is why I’m always saying we should take this long route. It’s kind of...peaceful.

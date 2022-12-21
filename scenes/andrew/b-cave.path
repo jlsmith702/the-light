@@ -1,6 +1,40 @@
 ~~
 
 [audio src="media/b-cave.mp3"]
+[clearlight]
+
+[11.5s]
+[light color="#9CDDC7" speed="xfast" size="xsmall" loop="true"]
+
+[13.3s]
+[light color="#11FDFF" speed="xfast" size="xsmall" loop="true"]
+
+[18.5s]
+[light color="#FF11FD" speed="xfast" size="xsmall" loop="true"]
+
+[22.2s]
+[light color="#9CDDC7" speed="xfast" size="xsmall" loop="true"]
+
+[34.43s]
+[light color="#06B449" size="large" speed="slow" loop="true" y="0"]
+
+[72s]
+[light color="#11FF6C" size="large" speed="normal" loop="true" x="45" y="0"]
+
+[73s]
+[light color="#11FF6C" size="large" speed="normal" loop="true" x="45" y="99"]
+
+[74s]
+[light color="#F439EE" size="medium" speed="slow" x="45" y="95" loop="true"]
+
+[76s]
+[light color="#F439EE" size="medium" speed="slow" x="45" y="0" loop="true"]
+
+[107s]
+[clearlight]
+
+[112s]
+[cc text=""]
 
 _Andrew walks into the cave. Water drips. His footsteps echo._
 

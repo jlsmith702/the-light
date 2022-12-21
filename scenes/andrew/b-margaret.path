@@ -1,6 +1,39 @@
 ~~
 
 [audio src="media/b-margaret.mp3"]
+[clearlight]
+
+[1.5s]
+[light color="#F3C541" size="xsmall" speed="xfast" loop="true"]
+
+[28.5s]
+[clearlight]
+
+[38.16s]
+[light color="#11FF6C" size="large" speed="slow" loop="true" x="45" y="99"]
+
+[44.23s]
+[light color="#6BFCCB" size="small" speed="normal" loop="true" y="80"]
+
+[46s]
+[light color="#11FF6C" size="small" speed="fast" loop="true" y="99"]
+
+[56s]
+[light color="#11FF6C" size="large" speed="normal" loop="true" x="45" y="0"]
+
+[80s]
+[light color="#11FF6C" size="xsmall" speed="fast" loop="true" y="0"]
+[light color="#06B449" size="small" speed="normal" loop="true" y="0"]
+
+[81.5s]
+[light color="#F439EE" size="medium" speed="slow" x="45" y="95" loop="true"]
+[light color="#F439EE" size="medium" speed="slow" x="45" y="0" loop="true"]
+
+[110s]
+[clearlight]
+
+[115s]
+[cc text=""]
 
 _The blips and radio static of Margaret, and the wind swishing past._
 
