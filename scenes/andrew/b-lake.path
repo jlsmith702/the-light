@@ -3,37 +3,37 @@
 [audio src="media/b-lake.mp3"]
 
 [0s]
-[cc text=“Andrew walks across the ice, slowly. Wind whistles in the background.”]
+[cc text="Andrew walks across the ice, slowly. Wind whistles in the background."]
 
 [2.4s]
-[cc text=“Andrew: All right, let’s, uh, let’s take this slow.”]
+[cc text="Andrew: All right, let’s, uh, let’s take this slow."]
 
 [6.1s]
-[cc text=“He keeps walking steadily on the ice.”]
+[cc text="He keeps walking steadily on the ice."]
 
 [8.3s]
-[cc text=“Andrew: No problem, just… walking across a frozen lake, by myself, in the dark. Nothing could go wrong here...”]
+[cc text="Andrew: No problem, just… walking across a frozen lake, by myself, in the dark. Nothing could go wrong here..."]
 
 [16.8s]
-[cc text=“Laser sounds. Andrew stops walking.”]
+[cc text="Laser sounds. Andrew stops walking."]
 
 [18.2s]
-[cc text=“Andrew: Wait a second…”]
+[cc text="Andrew: Wait a second…"]
 
 [20.2s]
-[cc text=“More laser sounds.”]
+[cc text="More laser sounds."]
 
 [20.26s]
 [light color="#3B71BA" size="xsmall" speed="xfast"]
 
 [21.9s]
-[cc text=“Andrew: Yesssssss. Listen, listen!”]
+[cc text="Andrew: Yesssssss. Listen, listen!"]
 
 [24.1s]
-[cc text=“Laser sounds seem to bounce around in all directions.”]
+[cc text="Laser sounds seem to bounce around in all directions."]
 
 [25.2s]
-[cc text=“Andrew: It’s doing the laser thing! The lake is making those laser sounds!”]
+[cc text="Andrew: It’s doing the laser thing! The lake is making those laser sounds!"]
 
 [24.55s]
 [light color="#3B71BA" size="xsmall" speed="xfast"]
@@ -42,7 +42,7 @@
 [light color="#3B71BA" size="xsmall" speed="xfast"]
 
 [31.8s]
-[cc text=“Andrew: I know you explained this to me like… six million times. But I still do not understand how this works.”]
+[cc text="Andrew: I know you explained this to me like… six million times. But I still do not understand how this works."]
 
 [32s]
 [light color="#3B71BA" size="xsmall" speed="xfast"]
@@ -51,7 +51,7 @@
 [light color="#3B71BA" size="xsmall" speed="xfast"]
 
 [37.8s]
-[cc text=“Suddenly: the ice starts to crack nearby!”]
+[cc text="Suddenly: the ice starts to crack nearby!"]
 
 [38.14s]
 [light color="#9DC4CB" size="xsmall" speed="xfast" x="60"]
@@ -63,16 +63,16 @@
 [light color="#9DC4CB" size="xsmall" speed="xfast" x="60"]
 
 [40.6s]
-[cc text=“Andrew: Um, whoa, whoa, hold on, hold on…”]
+[cc text="Andrew: Um, whoa, whoa, hold on, hold on…"]
 
 [41.45s]
 [light color="#9DC4CB" size="xsmall" speed="xfast" x="60"]
 
 [42.5s]
-[cc text=“Cracking gets louder.”]
+[cc text="Cracking gets louder."]
 
 [43.75s]
-[cc text=“Andrew: No no no no, that is cracking ice, okay, it is time to get off the lake, it is time to get off the lake right now.”]
+[cc text="Andrew: No no no no, that is cracking ice, okay, it is time to get off the lake, it is time to get off the lake right now."]
 
 [43.8s]
 [light color="#9DC4CB" size="xsmall" speed="xfast" x="60"]
@@ -81,37 +81,37 @@
 [light color="#9DC4CB" size="xsmall" speed="xfast" x="60"]
 
 [48.3s]
-[cc text=“He starts to run.”]
+[cc text="He starts to run."]
 
 [50s]
-[cc text=“The cracking fades into the background.”]
+[cc text="The cracking fades into the background."]
 
 [52s]
-[cc text=“He stops running and catches his breath.”]
+[cc text="He stops running and catches his breath."]
 
 [54s]
 [clearlight]
 
 [55.3s]
-[cc text=“Andrew: Alright, the forest path should be just up ahead...”]
+[cc text="Andrew: Alright, the forest path should be just up ahead..."]
 
 [58.2s]
-[cc text=“There’s the sound of a fire, crackling off to one side.”]
+[cc text="There’s the sound of a fire, crackling off to one side."]
 
 [58.7s]
 [light color="#8C2214" size="medium" speed="slow" loop="true" x="45" y="-5"]
 
 [60s]
-[cc text=“Andrew: Is that… is that a fire? Hey, I think I see a fire.”] 
+[cc text="Andrew: Is that… is that a fire? Hey, I think I see a fire."] 
 
 [64.2s]
 [light color="#219946" size="medium" speed="slow" loop="true" x="99" y="25"]
 
 [65s]
-[cc text=“From the opposite direction, soft chords of music start to play.”]
+[cc text="From the opposite direction, soft chords of music start to play."]
 
 [67.3s]
-[cc text=“Andrew: Uh. Is that… music?”]
+[cc text="Andrew: Uh. Is that… music?"]
 
 [72s]
 [cc text=""]
