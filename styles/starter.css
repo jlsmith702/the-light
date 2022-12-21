@@ -177,6 +177,12 @@ button {
   font-size: 1rem;
 }
 
+button:disabled,
+button[disabled] {
+  pointer-events: auto;
+  opacity: 0.6;
+}
+
 p {
   font-size: 1rem;
   line-height: 1.3;
