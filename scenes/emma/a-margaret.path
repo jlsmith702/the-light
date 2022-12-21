@@ -34,42 +34,65 @@
 [light color="#F439EE" size="medium" speed="slow" x="45" y="95" loop="true"]
 [light color="#F439EE" size="medium" speed="slow" x="45" y="0" loop="true"]
 
+[0s]
 
-_The wind whistles past. Emma walks through the snow to the blips and static of Margaret._
+[cc text="The wind whistles past. Emma walks through the snow to the blips and static of Margaret."]
 
-Emma: Okay, Margaret. What’s the matter with you?
+[3.4s]
 
-_Voices and other strange noises cut in and out of the signal._
+[cc text="Emma: Okay, Margaret. What’s the matter with you?"]
 
-Emma: You’re only supposed to be tuned into one thing. You just listen, for the Aurora, every night. You see if it shows up. You see if it makes a sound.
+[6.65s]
 
-_The digital chaos continues._
+[cc text="Emma: You’re only supposed to be tuned into one thing. You just listen, for the Aurora, every night. You see if it shows up. You see if it makes a sound."]
 
-Emma: Because people say it makes a sound. But we both know that’s not possible.
+[14.8s]
 
-_It’s almost like Margaret is picking up another signal._
+[cc text="Emma: Because people say it makes a sound. But we both know that’s not possible."]
 
-Emma: It’s probably not possible. But I had to be sure.
+[20.7s]
 
-_Suddenly, the static and radio signal cut out._ 
+[cc text="Emma: It’s probably not possible. But I had to be sure."]
 
-Emma: The mics are all dead.
+[26.4s]
 
-_A glittery, musical sound starts from the sky, in the distance._
+[cc text="Suddenly, the static and radio signal cut out."]
 
-Emma _(hushed)_: The Aurora. Gets me every time.
+[29.2s]
 
-_The sound grows and grows towards her._ 
+[cc text="Emma: The mics are all dead."]
 
-Emma: Oh my god. It’s real. He was right. 
+[31.6s]
 
-_It’s the Lights. Their musical sound is everywhere now._ 
+[cc text="A glittery, musical sound starts from the sky, in the distance."]
 
-Emma: It’s perfect.
+[34.8s]
 
-Emma: I’ll tell him. I’ll tell him later.
+[cc text="Emma (hushed): The Aurora. Gets me every time."]
 
-_The sound and the light take over._
+[38.6s]
+
+[cc text="The sound grows and grows towards her."]
+
+[44.8s]
+
+[cc text="Emma: Oh my god. It’s real. He was right."]
+
+[48.5s]
+
+[cc text="The musical sound is everywhere now."]
+
+[50.5s]
+
+[cc text="Emma: It’s perfect."]
+
+[55s]
+
+[cc text="Emma: I’ll tell him. I’ll tell him later."]
+
+[60s]
+
+[cc text="The sound and the Lights take over."]
 
 ~~
 

@@ -38,41 +38,75 @@
 
 [light color="#B42D88" class="xsmall" speed="xslow" x="35" y="-5" loop="true"]
 
-_Emma walks towards the sound of the crackling fire._
+[0s]
 
-_She stops suddenly: a wolf emerges from the forest._
+[cc text="Emma walks towards the sound of the crackling fire."]
 
-Emma: Whoa. An arctic wolf. I’ve never seen one of you up close.
+[3.6s]
 
-Emma: You're beautiful. ... Did you make this fire?
+[cc text="She stops suddenly: a wolf emerges from the forest."]
 
-Emma: No. Wolves don’t make fires, that’s not a. ... Don’t you need thumbs to make a fire?
+[5.2s]
 
-Emma (whispering): Are you... what do you know?
+[cc text="Emma: Whoa. An arctic wolf. I’ve never seen one of you up close."]
 
-_The wolf takes off running into the distance._
+[11.1s]
 
-_The wolf howls._
+[cc text="Emma: You're beautiful. ... Did you make this fire?"]
 
-Emma: Wait! 
+[13.78s]
 
-_Emma takes off running after the wolf._ 
+[cc text="Emma: No. Wolves don’t make fires, that’s not a. ... Don’t you need thumbs to make a fire?"]
 
-_But then, the sound of weird radio static from nearby._
+ [21.1s]
 
-Emma: Wait, that’s Margaret, but she’s... where could she be picking up that kind of signal from?
+[cc text="Emma (whispering): Are you... what do you know?"]
 
-_It sounds like another radio signal is cutting into the static._ 
+[25.5s]
 
-Emma: The Aurora will be here soon. I gotta get up there. I don’t want to have to start over to be here for another six months, to prove that something doesn’t exist. …I guess it really doesn’t sound great when you say it out loud.
+[cc text="The wolf takes off running."]
 
-_From the other side, a different sound, musical and glowy._
+[28.5s]
 
-Emma: But the way the wolf went... Is that a cave... No.
+[cc text="The wolf howls in the distance."]
 
-Emma: Is the cave… glowing? What is happening?
+[31s]
 
-Emma: … I wish you were here.
+[cc text="Emma: Wait!"] 
+
+[31.7s]
+
+[cc text="Emma takes off running after the wolf."]
+
+[38.1s]
+
+[cc text="The sound of weird radio static comes from nearby."]
+
+[40s]
+
+[cc text="Emma: Wait, that’s Margaret, but she’s... where could she be picking up that kind of signal from?"]
+
+[44.4s]
+
+[cc text="It sounds like another radio signal is cutting into the static."]
+
+[46s]
+
+[cc text="Emma: The Aurora will be here soon. I gotta get up there. I don’t want to have to start over to be here for another six months, to prove that something doesn’t exist. …I guess it really doesn’t sound great when you say it out loud."]
+
+[56.6s]
+
+[cc text="Emma: But the way the wolf went... Is that a cave... No."]
+
+[62s]
+
+[cc text="Emma: Is the cave… glowing? What is happening?"]
+
+[69s]
+
+[cc text="Emma: … I wish you were here."]
+
+[71.4s]
 
 *Go find out what’s happening with Margaret? Or venture into the cave?*
 
