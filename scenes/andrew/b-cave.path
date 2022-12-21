@@ -4,19 +4,19 @@
 [clearlight]
 
 [0s]
-[cc text=“Andrew walks into the cave. Water drips. His footsteps echo.”]
+[cc text="Andrew walks into the cave. Water drips. His footsteps echo."]
 
 [2s]
-[cc text=“The strange droning continues.”]
+[cc text="The strange droning continues."]
 
 [4.3s]
-[cc text=“Andrew: Wow… I had no idea this place was even here.”]
+[cc text="Andrew: Wow… I had no idea this place was even here."]
 
 [9.2s]
-[cc text=“He walks deeper into the cave.”]
+[cc text="He walks deeper into the cave."]
 
 [11.4s]
-[cc text=“Andrew: What is that light?”]
+[cc text="Andrew: What is that light?"]
 
 [11.5s]
 [light color="#9CDDC7" speed="xfast" size="xsmall" loop="true"]
@@ -25,10 +25,10 @@
 [light color="#11FDFF" speed="xfast" size="xsmall" loop="true"]
 
 [14.4s]
-[cc text=“Lights start to twinkle and shine all around.”]
+[cc text="Lights start to twinkle and shine all around."]
 
 [17.3s]
-[cc text=“Andrew: Whoa... That’s... That’s the Aurora. There’s like, this… there’s like, this opening way up there. The Northern Lights are shining all the way down, through the mountain, into this cave.”]
+[cc text="Andrew: Whoa... That’s... That’s the Aurora. There’s like, this… there’s like, this opening way up there. The Northern Lights are shining all the way down, through the mountain, into this cave."]
 
 [18.5s]
 [light color="#FF11FD" speed="xfast" size="xsmall" loop="true"]
@@ -37,37 +37,37 @@
 [light color="#9CDDC7" speed="xfast" size="xsmall" loop="true"]
 
 [34s]
-[cc text=“The Lights begin to reveal their sounds.”]
+[cc text="The Lights begin to reveal their sounds."]
 
 [34.43s]
 [light color="#06B449" size="large" speed="slow" loop="true" y="0"]
 
 [37.4s]
-[cc text=“Andrew (whispers): Do you hear that?”]
+[cc text="Andrew (whispers): Do you hear that?"]
 
 [38s]
-[cc text=“Music floods in from all directions.”]
+[cc text="Music floods in from all directions."]
 
 [40.2s]
-[cc text=“Andrew: Oh man… I think, I think it’s happening.”]
+[cc text="Andrew: Oh man… I think, I think it’s happening."]
 
 [45.15s]
-[cc text=“Andrew: Okay, okay, rolling. Speeding. Whatever, shut up. Okay, here we go… the sounds of the Aurora Borealis, captured for the first time.”]
+[cc text="Andrew: Okay, okay, rolling. Speeding. Whatever, shut up. Okay, here we go… the sounds of the Aurora Borealis, captured for the first time."]
 
 [55s]
-[cc text=“The music swells.”]
+[cc text="The music swells."]
 
 [57.8s]
-[cc text=“Andrew: This cave, it’s like an amplifier, or I don’t know, I’m not a scientist. But this is just the right place… for this exact moment.”]
+[cc text="Andrew: This cave, it’s like an amplifier, or I don’t know, I’m not a scientist. But this is just the right place… for this exact moment."]
 
 [67.3s]
-[cc text=“Andrew: And we got it all on tape, loud and clear.”]
+[cc text="Andrew: And we got it all on tape, loud and clear."]
 
 [72s]
 [light color="#11FF6C" size="large" speed="normal" loop="true" x="45" y="0"]
 
 [72.1s]
-[cc text=“Music builds, expands, fills the cave.”]
+[cc text="Music builds, expands, fills the cave."]
 
 [73s]
 [light color="#11FF6C" size="large" speed="normal" loop="true" x="45" y="99"]

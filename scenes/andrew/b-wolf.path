@@ -4,13 +4,13 @@
 [clearlight]
 
 [0s]
-[cc text=“Andrew walks through the forest and approaches the fire.”]
+[cc text="Andrew walks through the forest and approaches the fire."]
 
 [2.8s]
-[cc text=“Andrew: Okay, so that’s a campfire. Hello?”]
+[cc text="Andrew: Okay, so that’s a campfire. Hello?"]
 
 [7.87s]
-[cc text=“A wolf emerges from the forest.”]
+[cc text="A wolf emerges from the forest."]
 
 [1s]
 [light color="#B91F1A" size="medium" speed="slow" loop="true" x="45" y="-5"]
@@ -22,10 +22,10 @@
 [light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
 
 [11.1s]
-[cc text=“Andrew: Okay, so that’s a wolf. Um. That… is a wolf. I am slowly backing away now...”]
+[cc text="Andrew: Okay, so that’s a wolf. Um. That… is a wolf. I am slowly backing away now..."]
 
 [19.4s] 
-[cc text=“Wolf: Hi. I know this might be a little strange.”]
+[cc text="Wolf: Hi. I know this might be a little strange."]
 
 [19.5s]
 [light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
@@ -34,16 +34,16 @@
 [light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
 
 [23.8s]
-[cc text=“Andrew: Am I talking to a wolf?”]
+[cc text="Andrew: Am I talking to a wolf?"]
 
 [25.98s]
 [light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
 
 [26s]
-[cc text=“Wolf: You’re totally freaking out, aren’t you.”] 
+[cc text="Wolf: You’re totally freaking out, aren’t you."] 
 
 [28.2s]
-[cc text=“Wolf: Look, sorry for the theatrics, but I’ve been trying to get your attention for a while, and let’s face it, your partner would probably shoot me on sight, so let’s not waste time.”]
+[cc text="Wolf: Look, sorry for the theatrics, but I’ve been trying to get your attention for a while, and let’s face it, your partner would probably shoot me on sight, so let’s not waste time."]
 
 [28.63s]
 [light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
@@ -64,22 +64,22 @@
 [light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
 
 [37s]
-[cc text=“Andrew: Oh my god.”]
+[cc text="Andrew: Oh my god."]
 
 [37.96s]
 [light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
 
 [38s]
-[cc text=“Wolf: You’re not dead, if that’s what you’re thinking.”]
+[cc text="Wolf: You’re not dead, if that’s what you’re thinking."]
 
 [39.8s]
-[cc text=“Andrew: That is what I was thinking!”]
+[cc text="Andrew: That is what I was thinking!"]
 
 [41.16s]
 [light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
 
 [41.2s]
-[cc text=“Wolf: Don’t worry, you’re alive, just—look, there’s something you need to see in the cave.”]
+[cc text="Wolf: Don’t worry, you’re alive, just—look, there’s something you need to see in the cave."]
 
 [42.89s]
 [light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
@@ -88,7 +88,7 @@
 [light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
 
 [46s] 
-[cc text=“Andrew: What cave?”]
+[cc text="Andrew: What cave?"]
 
 [47.18s]
 [light color="#0C0C0D" size="small" speed="normal" x="15" y="70"]
@@ -97,22 +97,22 @@
 [light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
 
 [48.9s]
-[cc text=“Wolf: That cave.”]
+[cc text="Wolf: That cave."]
 
 [50.7s]
-[cc text=“Andrew: Oh, I’m not going in there.”]
+[cc text="Andrew: Oh, I’m not going in there."]
 
 [52.2s]
-[cc text=“Wolf: It’s your funeral. I gotta go.”]
+[cc text="Wolf: It’s your funeral. I gotta go."]
 
 [52.39s]
 [light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
 
 [54.2s]
-[cc text=“Andrew: Wait, wait! Can you tell me anything about what’s going on?”]
+[cc text="Andrew: Wait, wait! Can you tell me anything about what’s going on?"]
 
 [58.29s]
-[cc text=“Wolf: Honestly… don’t take this the wrong way, but this is kind of my territory, and the sooner you two are gone, the better.”]
+[cc text="Wolf: Honestly… don’t take this the wrong way, but this is kind of my territory, and the sooner you two are gone, the better."]
 
 [58.34s]
 [light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
@@ -127,10 +127,10 @@
 [light color="#808087" size="xsmall" speed="xfast" x="45" y="45"]
 
 [65s]
-[cc text=“The wolf runs away.”]
+[cc text="The wolf runs away."]
 
 [69s]
-[cc text=“Andrew: Okay, now I really don’t know what to do.”] 
+[cc text="Andrew: Okay, now I really don’t know what to do."] 
 
 [72s]
 [cc text=""]
